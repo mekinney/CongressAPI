@@ -1,0 +1,38 @@
+//// ---------------- /congressional_documents/search?chamber=house ------------Default fields------------------------------------
+{
+  "results": [
+    {
+      "bill_id": "hr1472-114",
+      "bioguide_id": null,
+      "congress": 114,
+      "occurs_at": "2015-04-15T14:00:00Z",
+      "version_code": "ih",
+      "description": "Text of H.R. 1472",
+      "committee_names": [ "Committee on Transportation and Infrastructure" ],
+      "document_id": "house-103339-BILLS-114HR1472ih",
+      "type": "Other",
+      "urls": [
+        {
+          "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1033/103339/BILLS-114HR1472ih.pdf",
+          "url": "http://docs.house.gov/meetings/PW/PW00/20150415/103339/BILLS-114HR1472ih.pdf"
+        }
+      ],
+      "chamber": "house",
+      "house_event_id": 103339,
+      "text_preview": "I 114TH CONGRESS 1ST SESSION H. R. 1472 To establish a modernized national Integrated Public Alert and Warning System, and for other purposes. IN THE HOUSE OF REPRESENTATIVES MARCH 19, 2015 Mr. BARLETTA (for himself, Mr. CARSON of Indiana, Mr. SHUSTER, and Mr. DEFAZIO) introduced the following bill; which was referred to the Com- mittee on Transportation and Infrastructure A BILL To establish a modernized national Integrated Public Alert and Warning System, and for other purposes. 1 Be it enacted by the Senate and House of Representa- 2 tives of the United States of America in Congress assembled, 3 SECTION 1. SHORT TITLE. 4 This Act may be cited as the ``Integrated Public Alert 5 and Warning System Modernization Act of 2015''. 6 SEC. 2. INTEGRATED PUBLIC ALERT AND WARNING SYS- 7 TEM MODERNIZATION. 8 (a) INTEGRATED PUBLIC ALERT AND WARNING SYS- emcdonald on DSK67QTVN1PROD with BILLS 9 TEM MODERNIZATION.-",
+      "committee_id": "HSPW",
+      "hearing_title": "",
+      "search": {
+        "score": 1,
+        "type": "congressional_document"
+      }
+    },
+    
+  ],
+  "count": 13435,
+  "page": {
+    "count": 20,
+    "per_page": 20,
+    "page": 1
+  }
+}

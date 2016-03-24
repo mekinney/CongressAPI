@@ -1,0 +1,1542 @@
+//// ---------------- /amendments?sponsor_type="committee"&fields=amendment_id,amendment_type,number,congress,chamber,house_number,introduced_on,last_action_at,amends_bill_id,amends_bill,amends_treaty_id,amends_amendment_id,amends_amendment,sponsor_type,sponsor_id,sponsor ------------ALL fields------------------------------------
+{
+  "results": [
+    {
+      "amendment_id": "hamdt833-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr1210-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSBA", "HSBA15", "SSBK" ],
+        "congress": 114,
+        "cosponsors_count": 54,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-04-16",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-11-18T22:15:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-03-03",
+        "last_action_at": "2015-11-19",
+        "last_version": {
+          "version_code": "rfs",
+          "issued_on": "2015-11-19",
+          "version_name": "Referred in Senate",
+          "bill_version_id": "hr1210-114-rfs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1210rfs/html/BILLS-114hr1210rfs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1210rfs/pdf/BILLS-114hr1210rfs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1210rfs/xml/BILLS-114hr1210rfs.xml"
+          },
+          "pages": 5
+        },
+        "last_version_on": "2015-11-19",
+        "last_vote_at": "2015-11-18T22:15:00Z",
+        "number": 1210,
+        "official_title": "To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution's portfolio, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres529-114", "hres529-114", "hr1113-114", "hr1233-114", "hr1389-114" ],
+        "short_title": "Portfolio Lending and Mortgage Access Act",
+        "sponsor": {
+          "first_name": "Garland",
+          "last_name": "Barr",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": "Andy",
+          "title": "Rep"
+        },
+        "sponsor_id": "B001282",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/1210",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr1210",
+          "opencongress": "https://www.opencongress.org/bill/hr1210-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr1210-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-11-18",
+      "last_action_at": "2015-11-18",
+      "number": 833,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt829-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr511-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSED", "HSED02" ],
+        "congress": 114,
+        "cosponsors_count": 54,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-06-16",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-11-17T20:35:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-22",
+        "last_action_at": "2015-11-18",
+        "last_version": {
+          "version_code": "rds",
+          "issued_on": "2015-11-18",
+          "version_name": "Received in Senate",
+          "bill_version_id": "hr511-114-rds",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr511rds/html/BILLS-114hr511rds.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr511rds/pdf/BILLS-114hr511rds.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr511rds/xml/BILLS-114hr511rds.xml"
+          },
+          "pages": 3
+        },
+        "last_version_on": "2015-11-18",
+        "last_vote_at": "2015-11-17T20:35:00Z",
+        "number": 511,
+        "official_title": "To clarify the rights of Indians and Indian tribes on Indian lands under the National Labor Relations Act.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres526-114", "s248-114", "s248-114" ],
+        "short_title": "Tribal Labor Sovereignty Act of 2015",
+        "sponsor": {
+          "first_name": "Todd",
+          "last_name": "Rokita",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "R000592",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/511",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr511",
+          "opencongress": "https://www.opencongress.org/bill/hr511-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr511-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-11-17",
+      "last_action_at": "2015-11-17",
+      "number": 829,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt734-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr22-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM", "SSFI" ],
+        "congress": 114,
+        "cosponsors_count": 118,
+        "enacted_as": {
+          "congress": 114,
+          "law_type": "public",
+          "number": 94
+        },
+        "history": {
+          "active": true,
+          "active_at": "2015-01-06T22:35:00Z",
+          "awaiting_signature": false,
+          "enacted": true,
+          "enacted_at": "2015-12-04",
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-12-03T18:25:00Z",
+          "senate_cloture_result": "pass",
+          "senate_cloture_result_at": "2015-07-22",
+          "senate_passage_result": "pass",
+          "senate_passage_result_at": "2015-12-03",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-06",
+        "last_action_at": "2015-12-04",
+        "last_version": {
+          "version_code": "enr",
+          "issued_on": "2015-12-30",
+          "version_name": "Enrolled Bill",
+          "bill_version_id": "hr22-114-enr",
+          "urls": {
+            "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr22enr/html/BILLS-114hr22enr.htm",
+            "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr22enr/pdf/BILLS-114hr22enr.pdf",
+            "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr22enr/xml/BILLS-114hr22enr.xml"
+          },
+          "pages": 490
+        },
+        "last_version_on": "2015-12-30",
+        "last_vote_at": "2015-12-03",
+        "number": 22,
+        "official_title": "An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres507-114", "hres512-114", "hres546-114", "hjres61-114", "hjres61-114", "hr233-114", "hr299-114", "hr301-114", "hr432-114", "hr597-114", "hr601-114", "hr1047-114", "hr1334-114", "hr1525-114", "hr1553-114", "hr1558-114", "hr1698-114", "hr1723-114", "hr1839-114", "hr2064-114", "hr2091-114", "hr2271-114", "hr2482-114", "hr2904-114", "hr2997-114", "hr3611-114", "hr3739-114", "hr3763-114", "hr3773-114", "hr3778-114", "hr3825-114", "hr3923-114", "hr3941-114", "hr3997-114", "s12-114", "s280-114", "s766-114", "s819-114", "s1741-114", "s2183-114" ],
+        "short_title": "FAST Act",
+        "sponsor": {
+          "first_name": "Rodney",
+          "last_name": "Davis",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "D000619",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/22",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr22",
+          "opencongress": "https://www.opencongress.org/bill/hr22-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr22-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-11-03",
+      "last_action_at": "2015-11-05T00:39:00Z",
+      "number": 734,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt731-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr1090-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSBA", "HSBA09", "HSBA16", "HSED", "HSED02", "SSBK" ],
+        "congress": 114,
+        "cosponsors_count": 34,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-09-10",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-10-27T22:26:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-02-25",
+        "last_action_at": "2015-10-28",
+        "last_version": {
+          "version_code": "rfs",
+          "issued_on": "2015-10-28",
+          "version_name": "Referred in Senate",
+          "bill_version_id": "hr1090-114-rfs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1090rfs/html/BILLS-114hr1090rfs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1090rfs/pdf/BILLS-114hr1090rfs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1090rfs/xml/BILLS-114hr1090rfs.xml"
+          },
+          "pages": 5
+        },
+        "last_version_on": "2015-10-28",
+        "last_vote_at": "2015-10-27T22:26:00Z",
+        "number": 1090,
+        "official_title": "To amend the Securities Exchange Act of 1934 to provide protections for retail customers, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres491-114" ],
+        "short_title": "Retail Investor Protection Act",
+        "sponsor": {
+          "first_name": "Ann",
+          "last_name": "Wagner",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "W000812",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/1090",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr1090",
+          "opencongress": "https://www.opencongress.org/bill/hr1090-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr1090-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-10-27",
+      "last_action_at": "2015-10-27",
+      "number": 731,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt730-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr597-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSBA" ],
+        "congress": 114,
+        "cosponsors_count": 61,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-10-27T16:41:00Z",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-10-27T22:34:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-28",
+        "last_action_at": "2015-10-29",
+        "last_version": {
+          "version_code": "pcs",
+          "issued_on": "2015-10-29",
+          "version_name": "Placed on Calendar Senate",
+          "bill_version_id": "hr597-114-pcs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr597pcs/html/BILLS-114hr597pcs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr597pcs/pdf/BILLS-114hr597pcs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr597pcs/xml/BILLS-114hr597pcs.xml"
+          },
+          "pages": 24
+        },
+        "last_version_on": "2015-10-29",
+        "last_vote_at": "2015-10-27T22:34:00Z",
+        "number": 597,
+        "official_title": "To reauthorize the Export-Import Bank of the United States, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hr22-114", "hr3611-114", "hr3847-114" ],
+        "short_title": "Export-Import Bank Reform and Reauthorization Act of 2015",
+        "sponsor": {
+          "first_name": "Stephen",
+          "last_name": "Fincher",
+          "middle_name": "Lee",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "F000458",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/597",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr597",
+          "opencongress": "https://www.opencongress.org/bill/hr597-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr597-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-10-27",
+      "last_action_at": "2015-10-27",
+      "number": 730,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt729-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr3762-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSBU" ],
+        "congress": 114,
+        "cosponsors_count": 0,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-10-21T23:36:00Z",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2016-01-06T22:54:00Z",
+          "senate_passage_result": "pass",
+          "senate_passage_result_at": "2015-12-03",
+          "vetoed": true,
+          "vetoed_at": "2016-01-08"
+        },
+        "introduced_on": "2015-10-16",
+        "last_action_at": "2016-01-08T18:01:00Z",
+        "last_version": {
+          "version_code": "enr",
+          "issued_on": "2016-01-09",
+          "version_name": "Enrolled Bill",
+          "bill_version_id": "hr3762-114-enr",
+          "urls": {
+            "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr3762enr/html/BILLS-114hr3762enr.htm",
+            "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr3762enr/pdf/BILLS-114hr3762enr.pdf",
+            "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr3762enr/xml/BILLS-114hr3762enr.xml"
+          },
+          "pages": 8
+        },
+        "last_version_on": "2016-01-09",
+        "last_vote_at": "2016-01-06T22:54:00Z",
+        "number": 3762,
+        "official_title": "To provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres483-114", "hres579-114" ],
+        "short_title": "Restoring Americans' Healthcare Freedom Reconciliation Act of 2015",
+        "sponsor": {
+          "first_name": "Tom",
+          "last_name": "Price",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "P000591",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/3762",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr3762",
+          "opencongress": "https://www.opencongress.org/bill/hr3762-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr3762-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-10-23",
+      "last_action_at": "2015-10-23",
+      "number": 729,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt709-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr3457-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSFA", "SSFR" ],
+        "congress": 114,
+        "cosponsors_count": 118,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-10-01T14:50:00Z",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-10-01T17:42:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-09-09",
+        "last_action_at": "2015-10-05",
+        "last_version": {
+          "version_code": "rfs",
+          "issued_on": "2015-10-05",
+          "version_name": "Referred in Senate",
+          "bill_version_id": "hr3457-114-rfs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3457rfs/html/BILLS-114hr3457rfs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3457rfs/pdf/BILLS-114hr3457rfs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3457rfs/xml/BILLS-114hr3457rfs.xml"
+          },
+          "pages": 4
+        },
+        "last_version_on": "2015-10-05",
+        "last_vote_at": "2015-10-01T17:42:00Z",
+        "number": 3457,
+        "official_title": "To prohibit the lifting of sanctions on Iran until the Government of Iran pays the judgments against it for acts of terrorism, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres449-114", "hr3460-114", "s2086-114" ],
+        "short_title": "Justice for Victims of Iranian Terrorism Act",
+        "sponsor": {
+          "first_name": "Patrick",
+          "last_name": "Meehan",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "M001181",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/3457",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr3457",
+          "opencongress": "https://www.opencongress.org/bill/hr3457-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr3457-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-10-01",
+      "last_action_at": "2015-10-01",
+      "number": 709,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt708-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr3495-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSIF", "HSIF14" ],
+        "congress": 114,
+        "cosponsors_count": 25,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-09-28T22:41:00Z",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-09-29T20:27:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-09-11",
+        "last_action_at": "2015-09-30",
+        "last_version": {
+          "version_code": "rds",
+          "issued_on": "2015-09-30",
+          "version_name": "Received in Senate",
+          "bill_version_id": "hr3495-114-rds",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3495rds/html/BILLS-114hr3495rds.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3495rds/pdf/BILLS-114hr3495rds.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3495rds/xml/BILLS-114hr3495rds.xml"
+          },
+          "pages": 3
+        },
+        "last_version_on": "2015-09-30",
+        "last_vote_at": "2015-09-29T20:27:00Z",
+        "number": 3495,
+        "official_title": "To amend title XIX of the Social Security Act to allow for greater State flexibility with respect to excluding providers who are involved in abortions.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres444-114", "s2159-114" ],
+        "short_title": "Women's Public Health and Safety Act",
+        "sponsor": {
+          "first_name": "Sean",
+          "last_name": "Duffy",
+          "middle_name": "P.",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "D000614",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/3495",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr3495",
+          "opencongress": "https://www.opencongress.org/bill/hr3495-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr3495-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-09-29",
+      "last_action_at": "2015-09-29",
+      "number": 708,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt695-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr3134-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSIF", "HSIF14" ],
+        "congress": 114,
+        "cosponsors_count": 179,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-09-17T02:18:00Z",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-09-18T16:48:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-07-21",
+        "last_action_at": "2015-09-22",
+        "last_version": {
+          "version_code": "pcs",
+          "issued_on": "2015-09-22",
+          "version_name": "Placed on Calendar Senate",
+          "bill_version_id": "hr3134-114-pcs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3134pcs/html/BILLS-114hr3134pcs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3134pcs/pdf/BILLS-114hr3134pcs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr3134pcs/xml/BILLS-114hr3134pcs.xml"
+          },
+          "pages": 6
+        },
+        "last_version_on": "2015-09-22",
+        "last_vote_at": "2015-09-18T16:48:00Z",
+        "number": 3134,
+        "official_title": "To provide for a moratorium on Federal funding to Planned Parenthood Federation of America, Inc.",
+        "popular_title": null,
+        "related_bill_ids": [ "hconres79-114", "hres421-114", "hres421-114", "s764-114", "s1836-114" ],
+        "short_title": "Defund Planned Parenthood Act of 2015",
+        "sponsor": {
+          "first_name": "Diane",
+          "last_name": "Black",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "B001273",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/3134",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr3134",
+          "opencongress": "https://www.opencongress.org/bill/hr3134-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr3134-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-09-18",
+      "last_action_at": "2015-09-18",
+      "number": 695,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt525-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr1190-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM", "HSIF", "HSIF14", "HSRU", "SSFI" ],
+        "congress": 114,
+        "cosponsors_count": 235,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-06-02",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-06-23T22:57:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-03-02",
+        "last_action_at": "2015-06-24",
+        "last_version": {
+          "version_code": "rfs",
+          "issued_on": "2015-06-24",
+          "version_name": "Referred in Senate",
+          "bill_version_id": "hr1190-114-rfs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1190rfs/html/BILLS-114hr1190rfs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1190rfs/pdf/BILLS-114hr1190rfs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1190rfs/xml/BILLS-114hr1190rfs.xml"
+          },
+          "pages": 3
+        },
+        "last_version_on": "2015-06-24",
+        "last_vote_at": "2015-06-23T22:57:00Z",
+        "number": 1190,
+        "official_title": "To repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres319-114", "s141-114" ],
+        "short_title": "Protecting Seniors' Access to Medicare Act of 2015",
+        "sponsor": {
+          "first_name": "David",
+          "last_name": "Roe",
+          "middle_name": "P.",
+          "name_suffix": null,
+          "nickname": "Phil",
+          "title": "Rep"
+        },
+        "sponsor_id": "R000582",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/1190",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr1190",
+          "opencongress": "https://www.opencongress.org/bill/hr1190-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr1190-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-06-18",
+      "last_action_at": "2015-06-18",
+      "number": 525,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt524-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr160-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM" ],
+        "congress": 114,
+        "cosponsors_count": 282,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-06-02",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-06-18T16:34:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-06",
+        "last_action_at": "2015-06-23",
+        "last_version": {
+          "version_code": "pcs",
+          "issued_on": "2015-06-23",
+          "version_name": "Placed on Calendar Senate",
+          "bill_version_id": "hr160-114-pcs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr160pcs/html/BILLS-114hr160pcs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr160pcs/pdf/BILLS-114hr160pcs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr160pcs/xml/BILLS-114hr160pcs.xml"
+          },
+          "pages": 4
+        },
+        "last_version_on": "2015-06-23",
+        "last_vote_at": "2015-06-18T16:34:00Z",
+        "number": 160,
+        "official_title": "To amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres319-114", "hres319-114", "s149-114" ],
+        "short_title": "Protect Medical Innovation Act of 2015",
+        "sponsor": {
+          "first_name": "Erik",
+          "last_name": "Paulsen",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "P000594",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/160",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr160",
+          "opencongress": "https://www.opencongress.org/bill/hr160-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr160-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-06-17",
+      "last_action_at": "2015-06-17",
+      "number": 524,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt440-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr2393-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSAG" ],
+        "congress": 114,
+        "cosponsors_count": 82,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-05-20",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-06-11T02:06:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-05-18",
+        "last_action_at": "2015-06-11",
+        "last_version": {
+          "version_code": "rds",
+          "issued_on": "2015-06-11",
+          "version_name": "Received in Senate",
+          "bill_version_id": "hr2393-114-rds",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2393rds/html/BILLS-114hr2393rds.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2393rds/pdf/BILLS-114hr2393rds.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2393rds/xml/BILLS-114hr2393rds.xml"
+          },
+          "pages": 4
+        },
+        "last_version_on": "2015-06-11",
+        "last_vote_at": "2015-06-11T02:06:00Z",
+        "number": 2393,
+        "official_title": "To amend the Agricultural Marketing Act of 1946 to repeal country of origin labeling requirements with respect to beef, pork, and chicken, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres303-114", "s1844-114" ],
+        "short_title": "Country of Origin Labeling Amendments Act of 2015",
+        "sponsor": {
+          "first_name": "K.",
+          "last_name": "Conaway",
+          "middle_name": "Michael",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "C001062",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/2393",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr2393",
+          "opencongress": "https://www.opencongress.org/bill/hr2393-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr2393-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-06-10",
+      "last_action_at": "2015-06-10",
+      "number": 440,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt242-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr880-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM" ],
+        "congress": 114,
+        "cosponsors_count": 32,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-02-12",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-05-20T23:17:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-02-11",
+        "last_action_at": "2015-05-21",
+        "last_version": {
+          "version_code": "rds",
+          "issued_on": "2015-05-21",
+          "version_name": "Received in Senate",
+          "bill_version_id": "hr880-114-rds",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr880rds/html/BILLS-114hr880rds.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr880rds/pdf/BILLS-114hr880rds.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr880rds/xml/BILLS-114hr880rds.xml"
+          },
+          "pages": 9
+        },
+        "last_version_on": "2015-05-21",
+        "last_vote_at": "2015-05-20T23:17:00Z",
+        "number": 880,
+        "official_title": "To amend the Internal Revenue Code of 1986 to simplify and make permanent the research credit.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres273-114", "hres273-114" ],
+        "short_title": "American Research and Competitiveness Act of 2015",
+        "sponsor": {
+          "first_name": "Kevin",
+          "last_name": "Brady",
+          "middle_name": "P.",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "B000755",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/880",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr880",
+          "opencongress": "https://www.opencongress.org/bill/hr880-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr880-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-05-20",
+      "last_action_at": "2015-05-20",
+      "number": 242,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt215-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr36-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSJU", "HSJU10" ],
+        "congress": 114,
+        "cosponsors_count": 187,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-01-20T21:29:00Z",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-05-13T21:33:00Z",
+          "senate_cloture_result": "fail",
+          "senate_cloture_result_at": "2015-09-22",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-06",
+        "last_action_at": "2015-09-22",
+        "last_version": {
+          "version_code": "pcs",
+          "issued_on": "2015-09-16",
+          "version_name": "Placed on Calendar Senate",
+          "bill_version_id": "hr36-114-pcs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr36pcs/html/BILLS-114hr36pcs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr36pcs/pdf/BILLS-114hr36pcs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr36pcs/xml/BILLS-114hr36pcs.xml"
+          },
+          "pages": 24
+        },
+        "last_version_on": "2015-09-16",
+        "last_vote_at": "2015-09-22",
+        "number": 36,
+        "official_title": "To amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres38-114", "hres255-114", "hres255-114", "s1553-114" ],
+        "short_title": "Pain-Capable Unborn Child Protection Act",
+        "sponsor": {
+          "first_name": "Trent",
+          "last_name": "Franks",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "F000448",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/36",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr36",
+          "opencongress": "https://www.opencongress.org/bill/hr36-114"
+        },
+        "withdrawn_cosponsors_count": 2
+      },
+      "amends_bill_id": "hr36-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-05-13",
+      "last_action_at": "2015-05-13",
+      "number": 215,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSJU",
+        "name": "House Committee on the Judiciary",
+        "office": "2138 RHOB",
+        "phone": "(202) 225-3951",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSJU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt214-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr2048-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSJU", "HSJU08", "HLIG", "HSBA" ],
+        "congress": 114,
+        "cosponsors_count": 27,
+        "enacted_as": {
+          "congress": 114,
+          "law_type": "public",
+          "number": 23
+        },
+        "history": {
+          "active": true,
+          "active_at": "2015-04-29",
+          "awaiting_signature": false,
+          "enacted": true,
+          "enacted_at": "2015-06-02",
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-05-13T21:47:00Z",
+          "senate_cloture_result": "pass",
+          "senate_cloture_result_at": "2015-05-31",
+          "senate_passage_result": "pass",
+          "senate_passage_result_at": "2015-06-02",
+          "vetoed": false
+        },
+        "introduced_on": "2015-04-28",
+        "last_action_at": "2015-06-02",
+        "last_version": {
+          "version_code": "enr",
+          "issued_on": "2015-06-03",
+          "version_name": "Enrolled Bill",
+          "bill_version_id": "hr2048-114-enr",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2048enr/html/BILLS-114hr2048enr.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2048enr/pdf/BILLS-114hr2048enr.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2048enr/xml/BILLS-114hr2048enr.xml"
+          },
+          "pages": 46
+        },
+        "last_version_on": "2015-06-03",
+        "last_vote_at": "2015-06-02",
+        "nicknames": [ "USA Freedom Act" ],
+        "number": 2048,
+        "official_title": "To reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres255-114", "hr1056-114", "hr4270-114", "s1123-114", "s1318-114", "s1469-114", "s2295-114", "s2344-114", "s2356-114" ],
+        "short_title": "Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015",
+        "sponsor": {
+          "first_name": "F.",
+          "last_name": "Sensenbrenner",
+          "middle_name": "James",
+          "name_suffix": "Jr.",
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "S000244",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/2048",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr2048",
+          "opencongress": "https://www.opencongress.org/bill/hr2048-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr2048-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-05-13",
+      "last_action_at": "2015-05-13",
+      "number": 214,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSJU",
+        "name": "House Committee on the Judiciary",
+        "office": "2138 RHOB",
+        "phone": "(202) 225-3951",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSJU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt89-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr622-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM" ],
+        "congress": 114,
+        "cosponsors_count": 43,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-02-12",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-04-16T15:55:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-30",
+        "last_action_at": "2015-04-20",
+        "last_version": {
+          "version_code": "rds",
+          "issued_on": "2015-04-20",
+          "version_name": "Received in Senate",
+          "bill_version_id": "hr622-114-rds",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr622rds/html/BILLS-114hr622rds.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr622rds/pdf/BILLS-114hr622rds.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr622rds/xml/BILLS-114hr622rds.xml"
+          },
+          "pages": 2
+        },
+        "last_version_on": "2015-04-20",
+        "last_vote_at": "2015-04-16T15:55:00Z",
+        "number": 622,
+        "official_title": "To amend the Internal Revenue Code of 1986 to make permanent the deduction of State and local general sales taxes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres200-114" ],
+        "short_title": "State and Local Sales Tax Deduction Fairness Act of 2015",
+        "sponsor": {
+          "first_name": "Kevin",
+          "last_name": "Brady",
+          "middle_name": "P.",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "B000755",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/622",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr622",
+          "opencongress": "https://www.opencongress.org/bill/hr622-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr622-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-04-16",
+      "last_action_at": "2015-04-16",
+      "number": 89,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt88-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr1105-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM" ],
+        "congress": 114,
+        "cosponsors_count": 135,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-03-25",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-04-16T16:11:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-02-26",
+        "last_action_at": "2015-04-20",
+        "last_version": {
+          "version_code": "rds",
+          "issued_on": "2015-04-20",
+          "version_name": "Received in Senate",
+          "bill_version_id": "hr1105-114-rds",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1105rds/html/BILLS-114hr1105rds.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1105rds/pdf/BILLS-114hr1105rds.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1105rds/xml/BILLS-114hr1105rds.xml"
+          },
+          "pages": 7
+        },
+        "last_version_on": "2015-04-20",
+        "last_vote_at": "2015-04-16T16:11:00Z",
+        "number": 1105,
+        "official_title": "To amend the Internal Revenue Code of 1986 to repeal the estate and generation-skipping transfer taxes, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres200-114", "s860-114" ],
+        "short_title": "Death Tax Repeal Act of 2015",
+        "sponsor": {
+          "first_name": "Kevin",
+          "last_name": "Brady",
+          "middle_name": "P.",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "B000755",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/1105",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr1105",
+          "opencongress": "https://www.opencongress.org/bill/hr1105-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr1105-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-04-16",
+      "last_action_at": "2015-04-16",
+      "number": 88,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt87-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr2-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSIF", "HSWM", "HSJU", "HSAG", "HSII", "HSII10", "HSBU" ],
+        "congress": 114,
+        "cosponsors_count": 13,
+        "enacted_as": {
+          "congress": 114,
+          "law_type": "public",
+          "number": 10
+        },
+        "history": {
+          "active": true,
+          "active_at": "2015-03-25T23:05:00Z",
+          "awaiting_signature": false,
+          "enacted": true,
+          "enacted_at": "2015-04-16",
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-03-26T16:08:00Z",
+          "senate_passage_result": "pass",
+          "senate_passage_result_at": "2015-04-14",
+          "vetoed": false
+        },
+        "introduced_on": "2015-03-24",
+        "last_action_at": "2015-04-16",
+        "last_version": {
+          "version_code": "enr",
+          "issued_on": "2015-04-16",
+          "version_name": "Enrolled Bill",
+          "bill_version_id": "hr2-114-enr",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2enr/html/BILLS-114hr2enr.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2enr/pdf/BILLS-114hr2enr.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr2enr/xml/BILLS-114hr2enr.xml"
+          },
+          "pages": 95
+        },
+        "last_version_on": "2015-04-16",
+        "last_vote_at": "2015-04-14",
+        "number": 2,
+        "official_title": "To amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and strengthen Medicare access by improving physician payments and making other improvements, to reauthorize the Children's Health Insurance Program, and for other purposes.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres173-114", "hr284-114", "hr289-114", "hr380-114", "hr663-114", "hr804-114", "hr1021-114", "hr1372-114", "hr1470-114", "s148-114", "s332-114", "s810-114" ],
+        "short_title": "Medicare Access and CHIP Reauthorization Act of 2015",
+        "sponsor": {
+          "first_name": "Michael",
+          "last_name": "Burgess",
+          "middle_name": "C.",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "B001248",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/2",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr2",
+          "opencongress": "https://www.opencongress.org/bill/hr2-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr2-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-03-26",
+      "last_action_at": "2015-03-26",
+      "number": 87,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt80-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hres132-114",
+        "bill_type": "hres",
+        "chamber": "house",
+        "committee_ids": [ "HSHA" ],
+        "congress": 114,
+        "cosponsors_count": 0,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-03-04",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-03-19T16:31:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-03-02",
+        "last_action_at": "2015-03-19T16:32:00Z",
+        "last_version": {
+          "version_code": "eh",
+          "issued_on": "2015-03-19",
+          "version_name": "Engrossed in House",
+          "bill_version_id": "hres132-114-eh",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hres132eh/html/BILLS-114hres132eh.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hres132eh/pdf/BILLS-114hres132eh.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hres132eh/xml/BILLS-114hres132eh.xml"
+          },
+          "pages": 6
+        },
+        "last_version_on": "2015-03-19",
+        "last_vote_at": "2015-03-19T16:31:00Z",
+        "number": 132,
+        "official_title": "Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fourteenth Congress.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres152-114", "hres152-114" ],
+        "short_title": null,
+        "sponsor": {
+          "first_name": "Candice",
+          "last_name": "Miller",
+          "middle_name": "S.",
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "M001150",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-resolution/132",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hres132",
+          "opencongress": "https://www.opencongress.org/bill/hres132-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hres132-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-03-19",
+      "last_action_at": "2015-03-19",
+      "number": 80,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    },
+    {
+      "amendment_id": "hamdt23-114",
+      "amendment_type": "hamdt",
+      "amends_bill": {
+        "bill_id": "hr529-114",
+        "bill_type": "hr",
+        "chamber": "house",
+        "committee_ids": [ "HSWM", "SSFI" ],
+        "congress": 114,
+        "cosponsors_count": 38,
+        "enacted_as": null,
+        "history": {
+          "active": true,
+          "active_at": "2015-02-12",
+          "awaiting_signature": false,
+          "enacted": false,
+          "house_passage_result": "pass",
+          "house_passage_result_at": "2015-02-25T20:53:00Z",
+          "vetoed": false
+        },
+        "introduced_on": "2015-01-26",
+        "last_action_at": "2015-04-16",
+        "last_version": {
+          "version_code": "rfs",
+          "issued_on": "2015-04-16",
+          "version_name": "Referred in Senate",
+          "bill_version_id": "hr529-114-rfs",
+          "urls": {
+            "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr529rfs/html/BILLS-114hr529rfs.htm",
+            "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr529rfs/pdf/BILLS-114hr529rfs.pdf",
+            "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr529rfs/xml/BILLS-114hr529rfs.xml"
+          },
+          "pages": 6
+        },
+        "last_version_on": "2015-04-16",
+        "last_vote_at": "2015-02-25T20:53:00Z",
+        "number": 529,
+        "official_title": "To amend the Internal Revenue Code of 1986 to improve 529 plans.",
+        "popular_title": null,
+        "related_bill_ids": [ "hres121-114", "hres121-114", "s335-114" ],
+        "short_title": null,
+        "sponsor": {
+          "first_name": "Lynn",
+          "last_name": "Jenkins",
+          "middle_name": null,
+          "name_suffix": null,
+          "nickname": null,
+          "title": "Rep"
+        },
+        "sponsor_id": "J000290",
+        "urls": {
+          "congress": "http://beta.congress.gov/bill/114th/house-bill/529",
+          "govtrack": "https://www.govtrack.us/congress/bills/114/hr529",
+          "opencongress": "https://www.opencongress.org/bill/hr529-114"
+        },
+        "withdrawn_cosponsors_count": 0
+      },
+      "amends_bill_id": "hr529-114",
+      "chamber": "house",
+      "congress": 114,
+      "house_number": 1,
+      "introduced_on": "2015-02-25",
+      "last_action_at": "2015-02-25",
+      "number": 23,
+      "sponsor": {
+        "chamber": "house",
+        "committee_id": "HSRU",
+        "name": "House Committee on Rules",
+        "office": "H312 CAPITOL",
+        "phone": "(202) 225-9191",
+        "subcommittee": false
+      },
+      "sponsor_id": "HSRU",
+      "sponsor_type": "committee"
+    }
+  ],
+  "count": 126,
+  "page": {
+    "count": 20,
+    "per_page": 20,
+    "page": 1
+  }
+}

@@ -1,0 +1,5557 @@
+{
+  "results": [
+    {
+      "nomination_id": "PN1084-114",
+      "congress": 114,
+      "number": "1084",
+      "nominees": [
+        {
+          "name": "Winfield D. Ong",
+          "position": "United States District Judge for the Southern District of Indiana",
+          "state": "IN"
+        }
+      ],
+      "organization": "The Judiciary",
+      "received_on": "2016-01-12",
+      "committee_ids": [ "SSJU" ],
+      "last_action": {
+        "acted_at": "2016-01-12",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on the Judiciary.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-12"
+    },
+    {
+      "nomination_id": "PN1083-114",
+      "congress": 114,
+      "number": "1083",
+      "nominees": [
+        {
+          "name": "Myra C. Selby",
+          "position": "United States Circuit Judge for the Seventh Circuit",
+          "state": "IN"
+        }
+      ],
+      "organization": "The Judiciary",
+      "received_on": "2016-01-12",
+      "committee_ids": [ "SSJU" ],
+      "last_action": {
+        "acted_at": "2016-01-12",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on the Judiciary.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-12"
+    },
+    {
+      "nomination_id": "PN1082-114",
+      "congress": 114,
+      "number": "1082",
+      "nominees": [
+        {
+          "name": "Donald Karl Schott",
+          "position": "United States Circuit Judge for the Seventh Circuit",
+          "state": "WI"
+        }
+      ],
+      "organization": "The Judiciary",
+      "received_on": "2016-01-12",
+      "committee_ids": [ "SSJU" ],
+      "last_action": {
+        "acted_at": "2016-01-12",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on the Judiciary.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-12"
+    },
+    {
+      "nomination_id": "PN1081-114",
+      "congress": 114,
+      "number": "1081",
+      "nominees": [
+        {
+          "name": "GEORGE L. ROBERTS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NEAL C. CARTER",
+          "position": "Major"
+        },
+        {
+          "name": "TEAUGE C. DELAPLAINE",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT A. MARTIN",
+          "position": "Major"
+        },
+        {
+          "name": "JAMEL L. NEVILLE",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN A. RITCHIE",
+          "position": "Major"
+        }
+      ],
+      "organization": "Marine Corps",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1080-114",
+      "congress": 114,
+      "number": "1080",
+      "nominees": [
+        {
+          "name": "JEREMY D. ADAMS",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN G. ADCOCK",
+          "position": "Major"
+        },
+        {
+          "name": "MARK A. ADOLPHSEN, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS A. AIELLO",
+          "position": "Major"
+        },
+        {
+          "name": "NICKOLAS H. AIONAAKA",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC D. ALBRIGHT",
+          "position": "Major"
+        },
+        {
+          "name": "DAN E. ALCANTARA",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB C. ALDEAN",
+          "position": "Major"
+        },
+        {
+          "name": "CARLTON D. ALLEN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW S. ALLEN",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY P. ANDREWS",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS J. ARMENDARIZ",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES R. ARMSTRONG",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES R. ARNOLD",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW R. ASHTON",
+          "position": "Major"
+        },
+        {
+          "name": "JARED R. ATKINSON",
+          "position": "Major"
+        },
+        {
+          "name": "JESSE T. ATTIG",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM J. AYRISS",
+          "position": "Major"
+        },
+        {
+          "name": "MARCOS AZUA",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLIE S. BAHK",
+          "position": "Major"
+        },
+        {
+          "name": "ISAAC S. BAKER",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL R. BAKER",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT W. BALLARD",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN W. BALTISBERGER",
+          "position": "Major"
+        },
+        {
+          "name": "JON C. BANKS",
+          "position": "Major"
+        },
+        {
+          "name": "KENNETH L. BARBER, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "BLAINE N. BARBY",
+          "position": "Major"
+        },
+        {
+          "name": "JASON A. BARNES",
+          "position": "Major"
+        },
+        {
+          "name": "WILLIAM M. BARRETT",
+          "position": "Major"
+        },
+        {
+          "name": "KATHERYN A. BASSO",
+          "position": "Major"
+        },
+        {
+          "name": "ANGELA J. BATASTINI",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW E. BAXLEY",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW M. BAXTER",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXANDER J. BEACHY",
+          "position": "Major"
+        },
+        {
+          "name": "MARTIN R. BEBELL",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN R. BECHTEL",
+          "position": "Major"
+        },
+        {
+          "name": "ALBERT D. BELLAMY",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN E. BENES",
+          "position": "Major"
+        },
+        {
+          "name": "GLENN W. BERDELA, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS I. BEREKNYEI",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL A. BERG",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH D. BERG",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID M. BERGER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER W. BERGMAN",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT L. BESKE",
+          "position": "Major"
+        },
+        {
+          "name": "RONALD E. BESS, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH R. BEST",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. BIBEAU",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN W. BICKHAM",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN M. BILLIRIS",
+          "position": "Major"
+        },
+        {
+          "name": "MARK G. BLACKBOROW",
+          "position": "Major"
+        },
+        {
+          "name": "SHANE A. BLADEN",
+          "position": "Major"
+        },
+        {
+          "name": "MARY C. BLAIR",
+          "position": "Major"
+        },
+        {
+          "name": "WALLY A. BLAIR",
+          "position": "Major"
+        },
+        {
+          "name": "NATHAN D. BLODGETT",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL D. BLUMENSCHEIN",
+          "position": "Major"
+        },
+        {
+          "name": "GABRIEL D. BOENECKE",
+          "position": "Major"
+        },
+        {
+          "name": "REBECCA A. BOLZ",
+          "position": "Major"
+        },
+        {
+          "name": "CHAD E. BONECUTTER",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID A. BORDEN, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "COURTNEY J. BOSTON",
+          "position": "Major"
+        },
+        {
+          "name": "JOHNATHAN M. BOUCEK",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID L. BOUCHARD",
+          "position": "Major"
+        },
+        {
+          "name": "RALIA R. BOUSKA",
+          "position": "Major"
+        },
+        {
+          "name": "JASON P. BOWERS",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN P. BOWLER",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW J. BOWMAN",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL E. BOWRING",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS S. BOWSER",
+          "position": "Major"
+        },
+        {
+          "name": "HARRY L. BOYD",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN F. BOYER",
+          "position": "Major"
+        },
+        {
+          "name": "COLIN P. BOYNTON",
+          "position": "Major"
+        },
+        {
+          "name": "EVAN F. BRADLEY",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES M. BRAUDT",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. BRIDGER",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES M. BROPHY",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL L. BROWN",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL R. BROWN",
+          "position": "Major"
+        },
+        {
+          "name": "PHILLIPPE C. BRULE",
+          "position": "Major"
+        },
+        {
+          "name": "AARON P. BRUNNER",
+          "position": "Major"
+        },
+        {
+          "name": "BRADLEY N. BUICK",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER C. BUMGARDNER",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY L. BURK",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID C. BURTON",
+          "position": "Major"
+        },
+        {
+          "name": "BRADY J. BUSTIN",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW T. BUTLER",
+          "position": "Major"
+        },
+        {
+          "name": "JASON D. BUTLER",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY V. BUTLER",
+          "position": "Major"
+        },
+        {
+          "name": "SETH D. BYRUM",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER K. CALDWELL",
+          "position": "Major"
+        },
+        {
+          "name": "CLIFF M. CAMPBELL",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER N. CAPASSO",
+          "position": "Major"
+        },
+        {
+          "name": "SERENA N. CARDONA",
+          "position": "Major"
+        },
+        {
+          "name": "AARON R. CARLSON",
+          "position": "Major"
+        },
+        {
+          "name": "HARLYE S. CARLTON",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN R. CARRELL",
+          "position": "Major"
+        },
+        {
+          "name": "CHESTER T. CARTER",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW G. CARTER",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN M. CARTHON",
+          "position": "Major"
+        },
+        {
+          "name": "CORY A. CARVER",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLES S. CASEY",
+          "position": "Major"
+        },
+        {
+          "name": "CHAD D. CASSADY",
+          "position": "Major"
+        },
+        {
+          "name": "JASON R. CASTER",
+          "position": "Major"
+        },
+        {
+          "name": "MARTIN A. CAWDERY",
+          "position": "Major"
+        },
+        {
+          "name": "BLAIR T. CELLON",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER R. CEREN",
+          "position": "Major"
+        },
+        {
+          "name": "ANTHONY J. CESARO",
+          "position": "Major"
+        },
+        {
+          "name": "JASON W. CHAN",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL K. CHAND, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "RHETT W. CHRISTENSEN",
+          "position": "Major"
+        },
+        {
+          "name": "KYLE A. CHRISTMAN",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL J. CHRISTY",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM M. CHU",
+          "position": "Major"
+        },
+        {
+          "name": "JASON C. CIARCIA",
+          "position": "Major"
+        },
+        {
+          "name": "BRYAN J. CLAUSEN",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB A. CLAYTON",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT B. CLEMENTS",
+          "position": "Major"
+        },
+        {
+          "name": "KYE P. COLBY",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW A. COLLIER",
+          "position": "Major"
+        },
+        {
+          "name": "BRETT C. COLLINS",
+          "position": "Major"
+        },
+        {
+          "name": "GREGORY L. COLLINS",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL D. COLLINS",
+          "position": "Major"
+        },
+        {
+          "name": "PETER C. COMBE, II",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH COMMON",
+          "position": "Major"
+        },
+        {
+          "name": "HECTOR L. CONTRERAS",
+          "position": "Major"
+        },
+        {
+          "name": "PETER J. COOMBE, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN M. COONS",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL C. CORDES",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. COTTON",
+          "position": "Major"
+        },
+        {
+          "name": "GRANT R. COVEY",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC D. CRAMER",
+          "position": "Major"
+        },
+        {
+          "name": "RONNIE L. CREECH",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT P. CRONIN",
+          "position": "Major"
+        },
+        {
+          "name": "LAURA E. CROWE",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN A. CRUTCHFIELD",
+          "position": "Major"
+        },
+        {
+          "name": "MIGUEL A. CRUZ",
+          "position": "Major"
+        },
+        {
+          "name": "GLENN A. CRUZCANCEL",
+          "position": "Major"
+        },
+        {
+          "name": "SARAH R. CULBERTSON",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT C. CULBERTSON",
+          "position": "Major"
+        },
+        {
+          "name": "COLIN J. CULKIN",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE D. CUMMINGS, IV",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY A. CUMMINGS",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS P. CUNNINGHAM",
+          "position": "Major"
+        },
+        {
+          "name": "GREGG F. CURLEY",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY A. CURLING",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK J. DALY",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH P. DAVIDOSKI",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL J. DAVIS",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY C. DAVIS",
+          "position": "Major"
+        },
+        {
+          "name": "NOLAN G. DEAN",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT C. DEBENEADTO",
+          "position": "Major"
+        },
+        {
+          "name": "LUKE D. DELANEY",
+          "position": "Major"
+        },
+        {
+          "name": "ALLEN C. DELEON",
+          "position": "Major"
+        },
+        {
+          "name": "MELISSA A. DEPRIEST",
+          "position": "Major"
+        },
+        {
+          "name": "SARAH J. DERRYBERRY",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER S. DESTAFNEY",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL P. DEVITO",
+          "position": "Major"
+        },
+        {
+          "name": "ANTHONY J. DEVUONO",
+          "position": "Major"
+        },
+        {
+          "name": "HONEY DHALIWAL",
+          "position": "Major"
+        },
+        {
+          "name": "NATHAN R. DILLON",
+          "position": "Major"
+        },
+        {
+          "name": "PETER A. DINARDO",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH N. DINIEGA",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES E. DITRI, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "JAY P. DODGE",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN B. DODSON",
+          "position": "Major"
+        },
+        {
+          "name": "KOLIN B. DOEZEMA",
+          "position": "Major"
+        },
+        {
+          "name": "PETER J. DORN",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLES W. DOTTERRER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. DOTY",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXEI A. DOUDAREV",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN M. DOVE",
+          "position": "Major"
+        },
+        {
+          "name": "ANTON D. DRAGANOV",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER D. DRISCOLL",
+          "position": "Major"
+        },
+        {
+          "name": "PETER A. DRISCOLL, II",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS M. DRISKELL",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC A. DUCHENE",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT M. DUGAN",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT E. DUSH",
+          "position": "Major"
+        },
+        {
+          "name": "RONALD O. DUTIL, II",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC S. DWYER",
+          "position": "Major"
+        },
+        {
+          "name": "CALEB D. EAMES",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH W. EASTERLING",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN M. EASTMAN",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN T. EDMONDSON",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL J. EICKHOFF, III",
+          "position": "Major"
+        },
+        {
+          "name": "KARL J. EISENMANN",
+          "position": "Major"
+        },
+        {
+          "name": "JASON G. ELLIS",
+          "position": "Major"
+        },
+        {
+          "name": "ZACHARY N. EMBERS",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL J. EMUNSON",
+          "position": "Major"
+        },
+        {
+          "name": "GEOFFREY S. ENGLUND",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY M. ERB",
+          "position": "Major"
+        },
+        {
+          "name": "HECTOR N. ESPADA",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL R. EUBANKS",
+          "position": "Major"
+        },
+        {
+          "name": "ALBERT L. EVANS, III",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL L. EVANS",
+          "position": "Major"
+        },
+        {
+          "name": "DAVINA C. EVANS",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES A. EVENSEN",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTIE R. EVERETT",
+          "position": "Major"
+        },
+        {
+          "name": "ZACHARY K. EVERHART",
+          "position": "Major"
+        },
+        {
+          "name": "GARRETT J. EXNER",
+          "position": "Major"
+        },
+        {
+          "name": "ADEMOLA D. FABAYO",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN P. FALLON",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL A. FARLEY",
+          "position": "Major"
+        },
+        {
+          "name": "WENDELL C. FARMER",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM G. FAUL",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTINA R. FELKINS",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE P. FENTON, II",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. FERGUSON",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL P. FISHER",
+          "position": "Major"
+        },
+        {
+          "name": "PHILIP O. FLAMBERT",
+          "position": "Major"
+        },
+        {
+          "name": "RUSSELL L. FLUKER",
+          "position": "Major"
+        },
+        {
+          "name": "HENRY C. FLYNN",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK J. FOEHL",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM T. FOLEY",
+          "position": "Major"
+        },
+        {
+          "name": "ROBIN J. FONSECA",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL J. FORSTER",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM E. FOUSHEE",
+          "position": "Major"
+        },
+        {
+          "name": "ALLEN J. FRAZIER",
+          "position": "Major"
+        },
+        {
+          "name": "JACK E. FREE",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS J. FREEMAN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW C. FRICK",
+          "position": "Major"
+        },
+        {
+          "name": "ANTHONY T. FUHRER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. FULLER",
+          "position": "Major"
+        },
+        {
+          "name": "AARON F. GAJEWSKI",
+          "position": "Major"
+        },
+        {
+          "name": "GERRID M. GALL",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL J. GALLANT",
+          "position": "Major"
+        },
+        {
+          "name": "FREDERICK S. GALLUP, IV",
+          "position": "Major"
+        },
+        {
+          "name": "REBECCA L. GANSCA",
+          "position": "Major"
+        },
+        {
+          "name": "WAYNE A. GANTZ",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID M. GARCIA",
+          "position": "Major"
+        },
+        {
+          "name": "BRADLEY A. GATES",
+          "position": "Major"
+        },
+        {
+          "name": "JOSHUA H. GATO",
+          "position": "Major"
+        },
+        {
+          "name": "REDMOND B. GAUTIER, IV",
+          "position": "Major"
+        },
+        {
+          "name": "SHERLEY K. GENNA",
+          "position": "Major"
+        },
+        {
+          "name": "TRISTAN M. GERRITSEN",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE E. GETMAN, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL A. GIBBON",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK J. GIBSON",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH L. GILL, II",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL E. GINN",
+          "position": "Major"
+        },
+        {
+          "name": "RAY N. GOMEZ",
+          "position": "Major"
+        },
+        {
+          "name": "EDWARD B. GONZALES",
+          "position": "Major"
+        },
+        {
+          "name": "JAVIER GONZALEZ",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH E. GOODRICH",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN J. GORALSKI",
+          "position": "Major"
+        },
+        {
+          "name": "CHAD R. GOWING",
+          "position": "Major"
+        },
+        {
+          "name": "ARTHUR L. GRAHAM, III",
+          "position": "Major"
+        },
+        {
+          "name": "COLIN A. GRAHAM",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT C. GRAHAM",
+          "position": "Major"
+        },
+        {
+          "name": "SETH M. GRANT",
+          "position": "Major"
+        },
+        {
+          "name": "WILLIAM T. GRAVES, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN D. GREEN",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL B. GREEN",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL W. GREEN",
+          "position": "Major"
+        },
+        {
+          "name": "NATHAN J. GREEN",
+          "position": "Major"
+        },
+        {
+          "name": "MARK A. GREENLIEF",
+          "position": "Major"
+        },
+        {
+          "name": "DARREN T. GRETCHKO",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN L. GRIECO",
+          "position": "Major"
+        },
+        {
+          "name": "TYSON L. GRIFFITH",
+          "position": "Major"
+        },
+        {
+          "name": "NATHANIEL D. GRIGGS",
+          "position": "Major"
+        },
+        {
+          "name": "KHALIL C. GUEST",
+          "position": "Major"
+        },
+        {
+          "name": "JASON E. GWINN",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN R. HAACK",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS J. HAAKENSEN",
+          "position": "Major"
+        },
+        {
+          "name": "PETER L. HACKETT",
+          "position": "Major"
+        },
+        {
+          "name": "GABLE F. HACKMAN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID R. HAINES",
+          "position": "Major"
+        },
+        {
+          "name": "CLINTON K. HALL",
+          "position": "Major"
+        },
+        {
+          "name": "HENOK S. HALL",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW S. HALL",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH B. HAMILTON",
+          "position": "Major"
+        },
+        {
+          "name": "CHAD A. HAMLIN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW D. HAMMOND",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN J. HAND",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID J. HANES",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTOPHER B. HANSEN",
+          "position": "Major"
+        },
+        {
+          "name": "SEAN B. HANSON",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW S. HARKINS",
+          "position": "Major"
+        },
+        {
+          "name": "LESLIE A. HARKNESS",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN E. HARRIS",
+          "position": "Major"
+        },
+        {
+          "name": "SAMUEL A. HART",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN D. HARVEY",
+          "position": "Major"
+        },
+        {
+          "name": "AARON J. HATFIELD",
+          "position": "Major"
+        },
+        {
+          "name": "COREY S. HEALEY",
+          "position": "Major"
+        },
+        {
+          "name": "ANTHONY T. HEARREAN",
+          "position": "Major"
+        },
+        {
+          "name": "CLAIRE E. HENRY",
+          "position": "Major"
+        },
+        {
+          "name": "GAVIN HENRY",
+          "position": "Major"
+        },
+        {
+          "name": "PETER J. HERSEY",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE A. HIERRO",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW C. HIETPAS",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN L. HOFFMAN",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT A. HOLBERT",
+          "position": "Major"
+        },
+        {
+          "name": "BRYAN G. HOLE",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK C. HOLLAND",
+          "position": "Major"
+        },
+        {
+          "name": "ROGER A. HOLLENBECK",
+          "position": "Major"
+        },
+        {
+          "name": "JACK W. HOLLOWAY",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW L. HOLMES",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES D. HOLT",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM S. HOOPER",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW P. HORNFECK",
+          "position": "Major"
+        },
+        {
+          "name": "JOSHUA M. HOTVET",
+          "position": "Major"
+        },
+        {
+          "name": "JAKE J. HUBBARD",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT A. HUMR",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTOPHE L. HURTLEY",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS B. HUTSON",
+          "position": "Major"
+        },
+        {
+          "name": "ROSELLA M. IACCINO",
+          "position": "Major"
+        },
+        {
+          "name": "MCLEAN IRVAN",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD J. JACOBS",
+          "position": "Major"
+        },
+        {
+          "name": "CHAD O. JAMES",
+          "position": "Major"
+        },
+        {
+          "name": "RODNEY M. JAMES",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN P. JANDORF",
+          "position": "Major"
+        },
+        {
+          "name": "NICOLE A. JANSENHINNENKAMP",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN A. JAQUITH",
+          "position": "Major"
+        },
+        {
+          "name": "SALVADOR JAUREGUI, III",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID R. JEFFRIES",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL A. JEVONS",
+          "position": "Major"
+        },
+        {
+          "name": "CORY J. JOBST",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN W. JOHANNINGSMEIER",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK R. JOHNSEN",
+          "position": "Major"
+        },
+        {
+          "name": "DEREK K. JOHNSON",
+          "position": "Major"
+        },
+        {
+          "name": "JESSE D. JOHNSON",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD W. JOHNSON, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "TALISHA D. JOHNSON",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN A. JORDAN",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN S. JOSEPH",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC JUAREZ",
+          "position": "Major"
+        },
+        {
+          "name": "IGNACIO A. JUAREZ",
+          "position": "Major"
+        },
+        {
+          "name": "SEAN H. KAHAK",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN J. KANE",
+          "position": "Major"
+        },
+        {
+          "name": "SEAN E. KASPERBAUERMCCOOL",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. KEARNEY",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN P. KELLY",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH M. KENNEDY",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN A. KERG",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN L. KEZAR",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER Y. KIM",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC E. KIM",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN E. KIVELIN, III",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN C. KLEPPIN, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTOPHER J. KNOBEL",
+          "position": "Major"
+        },
+        {
+          "name": "RANDON L. KNOLL",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW A. KNOPP",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL F. KNUDSON, III",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN J. KOEPKE",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL W. KOHLER",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW C. KOLB",
+          "position": "Major"
+        },
+        {
+          "name": "EDWARD P. KOTULSKI, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "ZUBAH Z. KOWEH",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL B. KOZICK",
+          "position": "Major"
+        },
+        {
+          "name": "SHANE F. KRAFT",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY R. KRONJAEGER",
+          "position": "Major"
+        },
+        {
+          "name": "MARK P. KUGLER, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL A. KUIPER",
+          "position": "Major"
+        },
+        {
+          "name": "SAMUEL E. KUNST",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW J. KURTZ",
+          "position": "Major"
+        },
+        {
+          "name": "KYLE A. KURTZ",
+          "position": "Major"
+        },
+        {
+          "name": "DOUGLAS R. KURZ",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL J. LACHASSE",
+          "position": "Major"
+        },
+        {
+          "name": "KYLE J. LADWIG",
+          "position": "Major"
+        },
+        {
+          "name": "DANIELZAIN A. LAKHANI",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW A. LAMB",
+          "position": "Major"
+        },
+        {
+          "name": "CAMILLE C. LAMPERT",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW H. LAMPERT",
+          "position": "Major"
+        },
+        {
+          "name": "KARLO R. LANDRAU",
+          "position": "Major"
+        },
+        {
+          "name": "SHANNON L. LANE",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH P. LARKIN",
+          "position": "Major"
+        },
+        {
+          "name": "ANDRE G. LATASTE",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM N. LAW",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN M. LAYMAN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID L. LEE, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "BROCK A. LENNON",
+          "position": "Major"
+        },
+        {
+          "name": "MARY E. LEVALLEY",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM R. LINDBERG",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH M. LIPIEC",
+          "position": "Major"
+        },
+        {
+          "name": "ERICH W. LLOYD",
+          "position": "Major"
+        },
+        {
+          "name": "RAY LONGORIA, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "NATHAN J. LOOMIS",
+          "position": "Major"
+        },
+        {
+          "name": "ZACHARY D. LOTT",
+          "position": "Major"
+        },
+        {
+          "name": "ARTHUR K. LOTZ, IV",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY W. LOVE",
+          "position": "Major"
+        },
+        {
+          "name": "MARK P. LUBKE",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER E. LYON",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER A. MACAK",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. MACHI",
+          "position": "Major"
+        },
+        {
+          "name": "ABDUL E. MACK",
+          "position": "Major"
+        },
+        {
+          "name": "KEITH D. MACLAREN",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH K. MADDUX",
+          "position": "Major"
+        },
+        {
+          "name": "MOISES MAGDALENO",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN P. MAHAFFEY",
+          "position": "Major"
+        },
+        {
+          "name": "EDWARD D. MAHONEY, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS C. MANNWEILER",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT H. MANUEL",
+          "position": "Major"
+        },
+        {
+          "name": "PETER J. MARBACH",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW D. MARKOFF",
+          "position": "Major"
+        },
+        {
+          "name": "AMANDA B. MARTIN",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH B. MARTIN",
+          "position": "Major"
+        },
+        {
+          "name": "GIOVANNI M. MARTINEZ",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD Q. MARTINEZ",
+          "position": "Major"
+        },
+        {
+          "name": "COLIN D. MARTY",
+          "position": "Major"
+        },
+        {
+          "name": "KYLE A. MASCHNER",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL F. MASTERS, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN L. MATHEWS",
+          "position": "Major"
+        },
+        {
+          "name": "BUCKSHOT N. MATTSON",
+          "position": "Major"
+        },
+        {
+          "name": "CHAD R. MATZELLE",
+          "position": "Major"
+        },
+        {
+          "name": "GRANT T. MAURITZSON",
+          "position": "Major"
+        },
+        {
+          "name": "SHANNON R. MAWSON",
+          "position": "Major"
+        },
+        {
+          "name": "AARON J. MAXWELL",
+          "position": "Major"
+        },
+        {
+          "name": "LEWIS M. MAXWELL, III",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES W. MCBRIDE",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL N. MCDOWELL",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM L. MCKILLOP",
+          "position": "Major"
+        },
+        {
+          "name": "LUKE J. MCLEAREN",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT B. MCMANUS",
+          "position": "Major"
+        },
+        {
+          "name": "ROLANDO A. MEDINA",
+          "position": "Major"
+        },
+        {
+          "name": "AARON S. MEKOLIK",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER F. MELLING",
+          "position": "Major"
+        },
+        {
+          "name": "FEDERICO W. MENDIZABAL",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY M. MENNE",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL A. MICHAUD",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN MIGGINS",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN E. MILLER",
+          "position": "Major"
+        },
+        {
+          "name": "JENNIFER E. MILLER",
+          "position": "Major"
+        },
+        {
+          "name": "DEREK A. MILLS",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW D. MIN",
+          "position": "Major"
+        },
+        {
+          "name": "MICAH J. MINER",
+          "position": "Major"
+        },
+        {
+          "name": "AMANDA L. MINIKUS",
+          "position": "Major"
+        },
+        {
+          "name": "JASON E. MISNER",
+          "position": "Major"
+        },
+        {
+          "name": "TROY E. MITCHELL",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC T. MOFFIT",
+          "position": "Major"
+        },
+        {
+          "name": "JASMIN MOGHBELI",
+          "position": "Major"
+        },
+        {
+          "name": "LILIANA MOLINA",
+          "position": "Major"
+        },
+        {
+          "name": "MORGAN T. MONAGHAN",
+          "position": "Major"
+        },
+        {
+          "name": "TREVOR J. MONFETTE",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT J. MONROE",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXANDER M. MONTE",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW M. MORAINE",
+          "position": "Major"
+        },
+        {
+          "name": "LUIS F. MORALES",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN R. MORGAN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID C. MORRIS",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS W. MORROW",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER A. MORTON",
+          "position": "Major"
+        },
+        {
+          "name": "KENDRA N. MOTZ",
+          "position": "Major"
+        },
+        {
+          "name": "MELISSA C. MUELLER",
+          "position": "Major"
+        },
+        {
+          "name": "GARRETT D. MULDER",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN P. MULLEN",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY M. MULLINS",
+          "position": "Major"
+        },
+        {
+          "name": "VALERIE R. MUNOZ",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN P. MURELLO",
+          "position": "Major"
+        },
+        {
+          "name": "CALEB A. MURPHY",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL P. MURPHY",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN P. MURPHY",
+          "position": "Major"
+        },
+        {
+          "name": "SARAH L. MURPHY",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS W. NANCE",
+          "position": "Major"
+        },
+        {
+          "name": "KHADIJAH M. NASHAGH",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREA K. NEAGLE",
+          "position": "Major"
+        },
+        {
+          "name": "BRENDAN R. NEAGLE",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTOPHER L. NEKVINDA",
+          "position": "Major"
+        },
+        {
+          "name": "CASEY D. NELSON",
+          "position": "Major"
+        },
+        {
+          "name": "HENRY R. NESBITT",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW M. NEWMAN",
+          "position": "Major"
+        },
+        {
+          "name": "WESLEY C. NEWMAN",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN P. NEWPORT",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN C. NICKELL",
+          "position": "Major"
+        },
+        {
+          "name": "LEONARD J. NIEDOSIK",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT J. NOXON",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS A. NOYES",
+          "position": "Major"
+        },
+        {
+          "name": "BRANDON C. OBERKAMP",
+          "position": "Major"
+        },
+        {
+          "name": "REGINALD C. ODJIMER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. OMELIA",
+          "position": "Major"
+        },
+        {
+          "name": "BRYAN J. ONEIL",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS C. ONISCHUK",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN D. OROURKE",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN D. ORTIZ",
+          "position": "Major"
+        },
+        {
+          "name": "EVAN L. OSBORN",
+          "position": "Major"
+        },
+        {
+          "name": "DEVLIN R. OSHEA",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY D. OTTEN",
+          "position": "Major"
+        },
+        {
+          "name": "WILLIAM O. OVER",
+          "position": "Major"
+        },
+        {
+          "name": "PRESTON S. PACK",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN G. PAGE",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID J. PALKA",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS A. PALMER",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN D. PARK, IV",
+          "position": "Major"
+        },
+        {
+          "name": "SUNG C. PARK",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY D. PARKER, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL J. PASSE",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. PATTERSON",
+          "position": "Major"
+        },
+        {
+          "name": "TARA E. PATTON",
+          "position": "Major"
+        },
+        {
+          "name": "EUGENE J. PAUL",
+          "position": "Major"
+        },
+        {
+          "name": "PHILLIP J. PEACOCK",
+          "position": "Major"
+        },
+        {
+          "name": "CURTISS W. PECK, II",
+          "position": "Major"
+        },
+        {
+          "name": "FILIPE A. PEERALLY",
+          "position": "Major"
+        },
+        {
+          "name": "JESSE M. PEPPERS",
+          "position": "Major"
+        },
+        {
+          "name": "FREDDIE PEREZ",
+          "position": "Major"
+        },
+        {
+          "name": "LUIS R. PEREZ",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN D. PERKINS",
+          "position": "Major"
+        },
+        {
+          "name": "PHILIPJASO S. PEROUNE",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY B. PERSONS, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "MARK J. PETERS",
+          "position": "Major"
+        },
+        {
+          "name": "FREDERICK H. PETERSON, IV",
+          "position": "Major"
+        },
+        {
+          "name": "GREGORY C. PETERSON",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL R. PETRONZIO",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN W. PHILLIPS, III",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC B. PHILLIPS",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL A. PHILLIPS",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN G. PICO",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN L. PITCOCK",
+          "position": "Major"
+        },
+        {
+          "name": "CELIDON H. PITT",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES M. PLOSKI",
+          "position": "Major"
+        },
+        {
+          "name": "IAN J. PLUMMER",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES W. POLLARD",
+          "position": "Major"
+        },
+        {
+          "name": "BRANDON S. POPE",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS D. POSEY",
+          "position": "Major"
+        },
+        {
+          "name": "BEN W. POTTER",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW F. PRICE",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN A. PRICE",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER L. PRIDGEN",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN W. PROSS",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXANDER C. PURATY",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW R. QUEEN",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL QUESADA",
+          "position": "Major"
+        },
+        {
+          "name": "JASON M. QUINN",
+          "position": "Major"
+        },
+        {
+          "name": "AARON J. QUINTANAR",
+          "position": "Major"
+        },
+        {
+          "name": "SEAN F. RAFFERTY",
+          "position": "Major"
+        },
+        {
+          "name": "WALTER M. RAINES",
+          "position": "Major"
+        },
+        {
+          "name": "VINEET RAJAN",
+          "position": "Major"
+        },
+        {
+          "name": "KARIN R. RAMIREZ",
+          "position": "Major"
+        },
+        {
+          "name": "CLIFTON N. RATEIKE",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE A. RAWSON",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT D. REAGLES",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN A. REAMY",
+          "position": "Major"
+        },
+        {
+          "name": "WILLIAM D. RECALDE",
+          "position": "Major"
+        },
+        {
+          "name": "CALEB M. REED",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL L. REID",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLES H. REITER",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN A. REYNA",
+          "position": "Major"
+        },
+        {
+          "name": "ANTHONY F. REYNOLDS",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLES H. RICHARDSON, IV",
+          "position": "Major"
+        },
+        {
+          "name": "JUDSON P. RIORDON",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN H. RITCHEY",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER G. ROBINSON",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. ROBINSON",
+          "position": "Major"
+        },
+        {
+          "name": "JARROD M. ROBINSON",
+          "position": "Major"
+        },
+        {
+          "name": "TYLER B. ROBINSON",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC P. ROBY",
+          "position": "Major"
+        },
+        {
+          "name": "DANIAL M. ROCK",
+          "position": "Major"
+        },
+        {
+          "name": "LUKE A. RODINA",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER A. RODNEY",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW L. ROHLFING",
+          "position": "Major"
+        },
+        {
+          "name": "JAVIER ROMAN",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS C. ROSE",
+          "position": "Major"
+        },
+        {
+          "name": "NATHANIEL L. ROSS",
+          "position": "Major"
+        },
+        {
+          "name": "ALEX J. RUNYAN",
+          "position": "Major"
+        },
+        {
+          "name": "GLENN O. RYBERG",
+          "position": "Major"
+        },
+        {
+          "name": "DANIE N. SAAIMAN",
+          "position": "Major"
+        },
+        {
+          "name": "KIRT R. SAMSON",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL SANCHEZ, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "GREGORY R. SANDERS",
+          "position": "Major"
+        },
+        {
+          "name": "TYLER B. SANDERS",
+          "position": "Major"
+        },
+        {
+          "name": "SRIVATSAN N. SANTHANAM",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL A. SARACENI",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN G. SCHMIDT",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL C. SCHMIDT",
+          "position": "Major"
+        },
+        {
+          "name": "CRAIG M. SCHNAPPINGER",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN J. SCHRANZ",
+          "position": "Major"
+        },
+        {
+          "name": "MARK R. SCHROTH, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "JORDAN T. SCHULTZ",
+          "position": "Major"
+        },
+        {
+          "name": "VALERIE M. SCHWINDT",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB D. SCHWINGHAMMER",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL J. SEDRICK",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER R. SEEMAYER",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL C. SEIDERS, V",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN B. SEMLER",
+          "position": "Major"
+        },
+        {
+          "name": "OSMAN N. SESAY",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY N. SHEA",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN SHIM",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM D. SHIRLEY",
+          "position": "Major"
+        },
+        {
+          "name": "EVAN L. SHOCKLEY",
+          "position": "Major"
+        },
+        {
+          "name": "JOSHUA W. SHOWALTER",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN SHROUT",
+          "position": "Major"
+        },
+        {
+          "name": "KEVIN A. SHULER",
+          "position": "Major"
+        },
+        {
+          "name": "CRAIG D. SHURGOT",
+          "position": "Major"
+        },
+        {
+          "name": "MOUHAMADOU SIDIBE",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM E. SIMON",
+          "position": "Major"
+        },
+        {
+          "name": "JESSE R. SIMONEAU",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER W. SIMPSON",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN K. SING",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW A. SISNEROS",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK J. SKEHAN",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTOFER A. SKIDMORE",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES M. SLOCUM",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES R. SMITH",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHANIE N. SOKOL",
+          "position": "Major"
+        },
+        {
+          "name": "ADRIAN L. SOLIS",
+          "position": "Major"
+        },
+        {
+          "name": "BRANDON S. SOUTHWORTH",
+          "position": "Major"
+        },
+        {
+          "name": "LEO P. SPAEDER, III",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY P. SPARROW",
+          "position": "Major"
+        },
+        {
+          "name": "MITCHELL R. SPIDEL",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN T. SPILLANE",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC W. SPITZNOGLE",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT A. SPODAREK",
+          "position": "Major"
+        },
+        {
+          "name": "CHAPMAN D. SPRING",
+          "position": "Major"
+        },
+        {
+          "name": "BRADLEY C. STADELMEIER",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT M. STAFFORD",
+          "position": "Major"
+        },
+        {
+          "name": "TYSON S. STAHL",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLOS B. STAITON",
+          "position": "Major"
+        },
+        {
+          "name": "NATHAN I. STEFFES",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE H. STEINFELS",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT L. STEINHAUSER, III",
+          "position": "Major"
+        },
+        {
+          "name": "KERRISSA A. STERNS",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN R. STEVENS",
+          "position": "Major"
+        },
+        {
+          "name": "HAYDEN T. STEVENS",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL F. STEWART, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK E. STEWART",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT A. STEWART",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW R. STOLZENBERG",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS J. STREAN",
+          "position": "Major"
+        },
+        {
+          "name": "LEE J. STUCKEY",
+          "position": "Major"
+        },
+        {
+          "name": "PAIGE D. STULL",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN T. SUETOS",
+          "position": "Major"
+        },
+        {
+          "name": "WILLIAM P. SUMPTION",
+          "position": "Major"
+        },
+        {
+          "name": "JARED K. SWAN",
+          "position": "Major"
+        },
+        {
+          "name": "JASON A. SYLVESTER",
+          "position": "Major"
+        },
+        {
+          "name": "KENNETH A. TARR",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN O. TATE",
+          "position": "Major"
+        },
+        {
+          "name": "GARON G. TAYLORTYREE",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS A. TEACH",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN J. TEDESCO",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH E. TENNISON",
+          "position": "Major"
+        },
+        {
+          "name": "TINA D. TERRY",
+          "position": "Major"
+        },
+        {
+          "name": "RAPHAEL J. THALAKOTTUR",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL T. THESING",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW J. THOMAS",
+          "position": "Major"
+        },
+        {
+          "name": "CLINTON T. THOMPSON",
+          "position": "Major"
+        },
+        {
+          "name": "CRAIG A. THOMPSON",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN M. THOMPSON",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW A. THOMPSON",
+          "position": "Major"
+        },
+        {
+          "name": "BRENT M. TIMMER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER P. TINOCO",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL A. TRUOG",
+          "position": "Major"
+        },
+        {
+          "name": "CARL D. TUCKER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER C. TUCKER",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS G. TUFTE",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES O. TURNER",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER V. TYSON",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD K. ULSH",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER D. UPTON",
+          "position": "Major"
+        },
+        {
+          "name": "SUSAN E. UPWARD",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS J. VALLELY, IV",
+          "position": "Major"
+        },
+        {
+          "name": "GERARD W. VANDERWAAL",
+          "position": "Major"
+        },
+        {
+          "name": "TROY J. VANZUMMEREN",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN J. VANZYTVELD",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN E. VAUGHAN",
+          "position": "Major"
+        },
+        {
+          "name": "FRANCISCO J. VEGA",
+          "position": "Major"
+        },
+        {
+          "name": "TRYSTEN L. VILLARREAL",
+          "position": "Major"
+        },
+        {
+          "name": "KIMBERLY L. WADE",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN A. WAGNER",
+          "position": "Major"
+        },
+        {
+          "name": "PHILLIP A. WAGNER",
+          "position": "Major"
+        },
+        {
+          "name": "FRANK E. WALKER",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC A. WALRAVEN",
+          "position": "Major"
+        },
+        {
+          "name": "ARAN T. WALSH",
+          "position": "Major"
+        },
+        {
+          "name": "JONAH B. WARREN",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLES J. WATT",
+          "position": "Major"
+        },
+        {
+          "name": "GREGORY P. WATTEN",
+          "position": "Major"
+        },
+        {
+          "name": "LUTHER T. WATTS",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT E. WAVERS",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW S. WEANT",
+          "position": "Major"
+        },
+        {
+          "name": "SHELDON WEBB",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN T. WEEKS",
+          "position": "Major"
+        },
+        {
+          "name": "JOSHUA H. WEILAND",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN P. WEITZEL",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL J. WENDOLOWSKI",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW J. WESENBERG",
+          "position": "Major"
+        },
+        {
+          "name": "BRET A. WHITE",
+          "position": "Major"
+        },
+        {
+          "name": "TODD R. WHITE",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES D. WHITLOW",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL H. WHITT",
+          "position": "Major"
+        },
+        {
+          "name": "PHILLIP A. WIKTOR",
+          "position": "Major"
+        },
+        {
+          "name": "RONNIE WILBURN, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB H. WILDE",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER D. WILLIS",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC B. WILLIS",
+          "position": "Major"
+        },
+        {
+          "name": "LONNIE C. WILSON",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW E. WINDHOL",
+          "position": "Major"
+        },
+        {
+          "name": "GARY J. WINDT",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS J. WISSLER",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT H. WITHERS, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL G. WITHERSPOON",
+          "position": "Major"
+        },
+        {
+          "name": "JASON P. WOOD",
+          "position": "Major"
+        },
+        {
+          "name": "MILLARD B. WOODARD",
+          "position": "Major"
+        },
+        {
+          "name": "LARRY N. WORLEY",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW M. WRZOSEK",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL C. YEO",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL B. YOUNG",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. ZAJAC",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN S. ZASADNY",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS Q. ZIMMERMAN",
+          "position": "Major"
+        },
+        {
+          "name": "STANLEY R. ZIVANOVICH, III",
+          "position": "Major"
+        },
+        {
+          "name": "PATRICK J. ZUBER",
+          "position": "Major"
+        },
+        {
+          "name": "ANGELA S. ZUNIC",
+          "position": "Major"
+        }
+      ],
+      "organization": "Marine Corps",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1079-114",
+      "congress": 114,
+      "number": "1079",
+      "nominees": [
+        {
+          "name": "James A. Trotter",
+          "position": "Lieutenant Commander"
+        }
+      ],
+      "organization": "Navy",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1078-114",
+      "congress": 114,
+      "number": "1078",
+      "nominees": [
+        {
+          "name": "DENISE M. VEYVODA",
+          "position": "Lieutenant Commander"
+        },
+        {
+          "name": "ROBERT G. WEST",
+          "position": "Lieutenant Commander"
+        }
+      ],
+      "organization": "Navy",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1077-114",
+      "congress": 114,
+      "number": "1077",
+      "nominees": [
+        {
+          "name": "Gregory L. Boylan",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1076-114",
+      "congress": 114,
+      "number": "1076",
+      "nominees": [
+        {
+          "name": "Martin S. Kendrick",
+          "position": "Lieutenant Colonel"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1075-114",
+      "congress": 114,
+      "number": "1075",
+      "nominees": [
+        {
+          "name": "Richard M. Hawkins",
+          "position": "Major"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1074-114",
+      "congress": 114,
+      "number": "1074",
+      "nominees": [
+        {
+          "name": "Steven R. Berger",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1073-114",
+      "congress": 114,
+      "number": "1073",
+      "nominees": [
+        {
+          "name": "Ricardo O. Morales",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1072-114",
+      "congress": 114,
+      "number": "1072",
+      "nominees": [
+        {
+          "name": "CRAIG A. HOLAN",
+          "position": "Colonel"
+        },
+        {
+          "name": "JONA M. HUGHES",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHELLE A. KILUK",
+          "position": "Colonel"
+        },
+        {
+          "name": "MARSHALL T. KOHR",
+          "position": "Colonel"
+        },
+        {
+          "name": "PETER J. PARENTE",
+          "position": "Colonel"
+        },
+        {
+          "name": "JOHN P. PLUNKETT",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHAEL D. SMITH",
+          "position": "Colonel"
+        },
+        {
+          "name": "ANDREW W. THAYNE",
+          "position": "Colonel"
+        },
+        {
+          "name": "NELSON J. VANECK, JR.",
+          "position": "Colonel"
+        },
+        {
+          "name": "ERIC E. ZIMMERMAN",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1071-114",
+      "congress": 114,
+      "number": "1071",
+      "nominees": [
+        {
+          "name": "Mark L. Coble",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Army",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1070-114",
+      "congress": 114,
+      "number": "1070",
+      "nominees": [
+        {
+          "name": "JANE A. ALSTON",
+          "position": "Major"
+        },
+        {
+          "name": "JOSHUA C. ANCHAN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID M. ANDERSON",
+          "position": "Major"
+        },
+        {
+          "name": "BRACKEN A. ARMSTRONG",
+          "position": "Major"
+        },
+        {
+          "name": "RACHAEL L. ARMSTRONG",
+          "position": "Major"
+        },
+        {
+          "name": "CHRIS J. ATKINSON",
+          "position": "Major"
+        },
+        {
+          "name": "SARAH E. AVILA",
+          "position": "Major"
+        },
+        {
+          "name": "BRADY A. BAHR",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES A. BAILEY",
+          "position": "Major"
+        },
+        {
+          "name": "ERIC M. BALL",
+          "position": "Major"
+        },
+        {
+          "name": "AARON E. BARROW",
+          "position": "Major"
+        },
+        {
+          "name": "HARITHA BASKAR",
+          "position": "Major"
+        },
+        {
+          "name": "JACQUELINE D. BATTISTELLI",
+          "position": "Major"
+        },
+        {
+          "name": "COREY M. BAXTER",
+          "position": "Major"
+        },
+        {
+          "name": "LAUREN MANSFIELD BEASLEY",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXIS ANTHON BEAUVAIS",
+          "position": "Major"
+        },
+        {
+          "name": "ADRIAN R. BERSABE",
+          "position": "Major"
+        },
+        {
+          "name": "REBECCA K. BICKFORD",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN C. BIRD",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL C. BLANCANEAUX",
+          "position": "Major"
+        },
+        {
+          "name": "FELIX S. BOECKER",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM BRADEN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID F. BRANDT",
+          "position": "Major"
+        },
+        {
+          "name": "RAMON A. BROWN",
+          "position": "Major"
+        },
+        {
+          "name": "MERIMA BUCAJ",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXANDRA M. BUFORD",
+          "position": "Major"
+        },
+        {
+          "name": "LISA R. CHASTANT",
+          "position": "Major"
+        },
+        {
+          "name": "EVA RODRIGUEZ CHATMAN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID H. CHEN",
+          "position": "Major"
+        },
+        {
+          "name": "CONNIE Y. CHUNG",
+          "position": "Major"
+        },
+        {
+          "name": "LEE T. CHURCH",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN A. COLLINS",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW P. CONNOR",
+          "position": "Major"
+        },
+        {
+          "name": "ERICA L. CONRAD",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW M. COUTERMARSH",
+          "position": "Major"
+        },
+        {
+          "name": "LYNSEY R. COX",
+          "position": "Major"
+        },
+        {
+          "name": "BLAIR K. CURTIS",
+          "position": "Major"
+        },
+        {
+          "name": "ELEANOR E. CURTIS",
+          "position": "Major"
+        },
+        {
+          "name": "LISA DANG",
+          "position": "Major"
+        },
+        {
+          "name": "GINA M. DATTOLI",
+          "position": "Major"
+        },
+        {
+          "name": "RUSSELL G. DAY",
+          "position": "Major"
+        },
+        {
+          "name": "COLIN W. DEFORD",
+          "position": "Major"
+        },
+        {
+          "name": "AVRAM H. DERROW",
+          "position": "Major"
+        },
+        {
+          "name": "ROSALY M. DIAZ TORRUELLAS",
+          "position": "Major"
+        },
+        {
+          "name": "VINCENT A. DIAZ",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL M. DIERFELDT",
+          "position": "Major"
+        },
+        {
+          "name": "SARAH SCOTT BRETT DIETZ",
+          "position": "Major"
+        },
+        {
+          "name": "LISA M. DODOBARA GRIFFITH",
+          "position": "Major"
+        },
+        {
+          "name": "ELIZABETH G. DOUGLAS",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT J. DOXEY",
+          "position": "Major"
+        },
+        {
+          "name": "KIM R. DRIFTMIER",
+          "position": "Major"
+        },
+        {
+          "name": "DANIELLE A. DUFRESNE",
+          "position": "Major"
+        },
+        {
+          "name": "JOEL D. DUNN",
+          "position": "Major"
+        },
+        {
+          "name": "ALAN ALDERSON DUPRE",
+          "position": "Major"
+        },
+        {
+          "name": "ASHLEY ELIZABETH DURAY",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN H. EOVALDI",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID J. FAITH",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM S. FAIZI",
+          "position": "Major"
+        },
+        {
+          "name": "SETH A. FARNSWORTH",
+          "position": "Major"
+        },
+        {
+          "name": "JOEL FERNANDEZ",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTOPHER J. FILAK",
+          "position": "Major"
+        },
+        {
+          "name": "MARY EMILY FLEMING",
+          "position": "Major"
+        },
+        {
+          "name": "STEVEN T. FOSMIRE",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHANIE M. FOX",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN T. FRANK",
+          "position": "Major"
+        },
+        {
+          "name": "DIANNE N. FRANKEL",
+          "position": "Major"
+        },
+        {
+          "name": "ASHLEY N. FRANZ",
+          "position": "Major"
+        },
+        {
+          "name": "JOSHUA E. FRIEND",
+          "position": "Major"
+        },
+        {
+          "name": "JAYSUN G. FRISCH",
+          "position": "Major"
+        },
+        {
+          "name": "GRANT G. GALLIMORE",
+          "position": "Major"
+        },
+        {
+          "name": "CURTIS R. GAPINSKI",
+          "position": "Major"
+        },
+        {
+          "name": "MARGARET J. GARNER",
+          "position": "Major"
+        },
+        {
+          "name": "CAYL L. GARRETT",
+          "position": "Major"
+        },
+        {
+          "name": "MORGAN C. GETTLE",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN S. GOINS",
+          "position": "Major"
+        },
+        {
+          "name": "HAROLD JONATHAN GOLDSTEIN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW M. GRAHAM",
+          "position": "Major"
+        },
+        {
+          "name": "EVA M. GRANT",
+          "position": "Major"
+        },
+        {
+          "name": "RUSSELL A. GRAY",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY P. GUINA",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL G. GUINDON",
+          "position": "Major"
+        },
+        {
+          "name": "LISA J. GUPTA",
+          "position": "Major"
+        },
+        {
+          "name": "AARON C. HAGER",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS A. HEAFNER",
+          "position": "Major"
+        },
+        {
+          "name": "AARON T. HENDERSON",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTY R. HICKS",
+          "position": "Major"
+        },
+        {
+          "name": "CLAIRE L. HILES",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL D. HILES",
+          "position": "Major"
+        },
+        {
+          "name": "NATHAN J. HOLLOWAY",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN H. HUGGINS",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTIN D. HUMMEL",
+          "position": "Major"
+        },
+        {
+          "name": "BRAD T. HYATT",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN HYMAN",
+          "position": "Major"
+        },
+        {
+          "name": "KYLE J. IVERSON",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN N. JULICH",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS J. JUNGE",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTEN SAENGER KANN",
+          "position": "Major"
+        },
+        {
+          "name": "TERATA A. KANU",
+          "position": "Major"
+        },
+        {
+          "name": "LUCAS A. G. KEITH",
+          "position": "Major"
+        },
+        {
+          "name": "JEREMY C. KELLEY",
+          "position": "Major"
+        },
+        {
+          "name": "MICHELLE E. KIGER",
+          "position": "Major"
+        },
+        {
+          "name": "NAM H. KIM",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFREY L. KINARD",
+          "position": "Major"
+        },
+        {
+          "name": "JOSEPH KYLE KLUESNER",
+          "position": "Major"
+        },
+        {
+          "name": "DEBRA A. KOENIGSBERGER",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN LITCHFIELD LAMB",
+          "position": "Major"
+        },
+        {
+          "name": "KYLE P. LAMMLEIN",
+          "position": "Major"
+        },
+        {
+          "name": "ELIZABETH A. LANDMAN",
+          "position": "Major"
+        },
+        {
+          "name": "RACHEL K. LANGLEY",
+          "position": "Major"
+        },
+        {
+          "name": "RIAN M. LAUB",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID M. LAUCK",
+          "position": "Major"
+        },
+        {
+          "name": "KELLY MICHAEL LAWRENCE",
+          "position": "Major"
+        },
+        {
+          "name": "BRYAN K. LAWSON",
+          "position": "Major"
+        },
+        {
+          "name": "MICHELLE L. LAWSON",
+          "position": "Major"
+        },
+        {
+          "name": "PAUL R. LENTZ",
+          "position": "Major"
+        },
+        {
+          "name": "JESSICA N. LEUSCHEN",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD J. LEVITRE",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID A. LINDHOLM",
+          "position": "Major"
+        },
+        {
+          "name": "CARL EUGENE LOBATO",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT STEVEN LOCKE",
+          "position": "Major"
+        },
+        {
+          "name": "KEVAN H. LONG",
+          "position": "Major"
+        },
+        {
+          "name": "MARK A. LUSSIER",
+          "position": "Major"
+        },
+        {
+          "name": "LUCKY R. C. LUSTERIO",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID T. LYNCH",
+          "position": "Major"
+        },
+        {
+          "name": "JEREMY M. MACKO",
+          "position": "Major"
+        },
+        {
+          "name": "SAMUEL L. MADSON",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTI MARIE MAKAS",
+          "position": "Major"
+        },
+        {
+          "name": "REBECCA N. MATZ",
+          "position": "Major"
+        },
+        {
+          "name": "LAUREN A. MAY",
+          "position": "Major"
+        },
+        {
+          "name": "SARA ELIZABETH MCALPIN",
+          "position": "Major"
+        },
+        {
+          "name": "CHERYL D. MCCALLA",
+          "position": "Major"
+        },
+        {
+          "name": "CAMERON W. MCLAUGHLIN",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER M. MCLAUGHLIN",
+          "position": "Major"
+        },
+        {
+          "name": "DIANA S. MEDA",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES M. MEDEIROS",
+          "position": "Major"
+        },
+        {
+          "name": "MICHELLE LEAH MEDINTZ",
+          "position": "Major"
+        },
+        {
+          "name": "JUN C. MENDOZA",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM S. MONTOYA",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW E. MOORE",
+          "position": "Major"
+        },
+        {
+          "name": "DAMIEN C. MORGAN",
+          "position": "Major"
+        },
+        {
+          "name": "MARK D. MULDER",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN P. MURRAY",
+          "position": "Major"
+        },
+        {
+          "name": "FAITH ROSE MURRAY",
+          "position": "Major"
+        },
+        {
+          "name": "BRETT A. NANCE",
+          "position": "Major"
+        },
+        {
+          "name": "BRIDGET SHANNON NESTOR ARJUN",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY A. NETTERS",
+          "position": "Major"
+        },
+        {
+          "name": "DANE M. NEWELL",
+          "position": "Major"
+        },
+        {
+          "name": "HENRY HAO v. NGUYEN",
+          "position": "Major"
+        },
+        {
+          "name": "KY V. NGUYEN",
+          "position": "Major"
+        },
+        {
+          "name": "KRISTINE TIU NORRIS",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL R. ODOM",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL C. OPRIS",
+          "position": "Major"
+        },
+        {
+          "name": "MEGHAN COLLEEN H. OZCAN",
+          "position": "Major"
+        },
+        {
+          "name": "ALICIA C. PALLETT",
+          "position": "Major"
+        },
+        {
+          "name": "ALLISON A. PALUMBO",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL F. PAPACOSTAS",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS C. PAPACOSTAS",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW M. PARKER",
+          "position": "Major"
+        },
+        {
+          "name": "MELONIE A. PARMLEY",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW O. PAULUS",
+          "position": "Major"
+        },
+        {
+          "name": "MARY T. PAWLAK",
+          "position": "Major"
+        },
+        {
+          "name": "BRYAN K. PAYNE",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL J. PEARSON",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN M. PEFFER",
+          "position": "Major"
+        },
+        {
+          "name": "ASHLEY N. PEREZ",
+          "position": "Major"
+        },
+        {
+          "name": "SON PHUONG PHAM",
+          "position": "Major"
+        },
+        {
+          "name": "PIOTR W. PODLESNY",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB R. POWELL",
+          "position": "Major"
+        },
+        {
+          "name": "JESSICA A. PREEDY",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTINA I. RAMIREZ",
+          "position": "Major"
+        },
+        {
+          "name": "SASHA RAMIREZ",
+          "position": "Major"
+        },
+        {
+          "name": "SHELLEY M. RASKA",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN T. RAUCH",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW D. READ",
+          "position": "Major"
+        },
+        {
+          "name": "KATHERINE M. REEVE",
+          "position": "Major"
+        },
+        {
+          "name": "ALEXANDER L. REYNOLDS",
+          "position": "Major"
+        },
+        {
+          "name": "CARISSA N. RITTBERG",
+          "position": "Major"
+        },
+        {
+          "name": "JAMIE L. ROPER",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT DANIEL RUBENSTEIN",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS J. RUPPEL",
+          "position": "Major"
+        },
+        {
+          "name": "MARIA D. J. SALINAS",
+          "position": "Major"
+        },
+        {
+          "name": "GEORGE SALLOUM",
+          "position": "Major"
+        },
+        {
+          "name": "DOROTHY L. SAUNE",
+          "position": "Major"
+        },
+        {
+          "name": "ASHLEY L. SAWTELLE",
+          "position": "Major"
+        },
+        {
+          "name": "NICHOLAS J. SCALZITTI",
+          "position": "Major"
+        },
+        {
+          "name": "KAYLA L. SCHEUER",
+          "position": "Major"
+        },
+        {
+          "name": "EDWARD M. SCHMITT",
+          "position": "Major"
+        },
+        {
+          "name": "MARK A. SCHNEIDER",
+          "position": "Major"
+        },
+        {
+          "name": "MEREDITH MONTGOMERY SCHULDT",
+          "position": "Major"
+        },
+        {
+          "name": "ELIZABETH V. SCHULZ",
+          "position": "Major"
+        },
+        {
+          "name": "RODNEY C. SCLATER",
+          "position": "Major"
+        },
+        {
+          "name": "ERIN A. SENOZAN",
+          "position": "Major"
+        },
+        {
+          "name": "CAITLIN M. SEYKORA",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB J. SHEFF",
+          "position": "Major"
+        },
+        {
+          "name": "DREW C. SHINER",
+          "position": "Major"
+        },
+        {
+          "name": "TIFFANY A. SIGAL",
+          "position": "Major"
+        },
+        {
+          "name": "DUSTIN L. SIMPSON",
+          "position": "Major"
+        },
+        {
+          "name": "TRAVIS M. SLOAN",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID M. SMITH",
+          "position": "Major"
+        },
+        {
+          "name": "TREVOR S. SMITH",
+          "position": "Major"
+        },
+        {
+          "name": "WILLIAM B. SMITH",
+          "position": "Major"
+        },
+        {
+          "name": "BRIAN D. SNOW",
+          "position": "Major"
+        },
+        {
+          "name": "ZACHARY S. SONNIER",
+          "position": "Major"
+        },
+        {
+          "name": "CHARLES G. STAHLMANN",
+          "position": "Major"
+        },
+        {
+          "name": "ELIZABETH ASHLEY SHERRON STEVENS",
+          "position": "Major"
+        },
+        {
+          "name": "SCOTT EDWARD STEWART",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES A. STOBER",
+          "position": "Major"
+        },
+        {
+          "name": "DANIEL R. STYPULA",
+          "position": "Major"
+        },
+        {
+          "name": "LUKE T. SURRY",
+          "position": "Major"
+        },
+        {
+          "name": "AYLIN TANYERI",
+          "position": "Major"
+        },
+        {
+          "name": "ASHLEY Q. THORBURN",
+          "position": "Major"
+        },
+        {
+          "name": "LIEN Q. TRAN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW H. TUREK",
+          "position": "Major"
+        },
+        {
+          "name": "KATHARYN E. TURNER",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN A. VON SCHWEINITZ",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN P. VOTH",
+          "position": "Major"
+        },
+        {
+          "name": "LAURA I. WALPOLE",
+          "position": "Major"
+        },
+        {
+          "name": "JUSTIN R. WARIX",
+          "position": "Major"
+        },
+        {
+          "name": "BRENT M. WEBER",
+          "position": "Major"
+        },
+        {
+          "name": "JEREMY M. WHITING",
+          "position": "Major"
+        },
+        {
+          "name": "LAURA A. WHITTINGTON",
+          "position": "Major"
+        },
+        {
+          "name": "ROBERT B. WIECK",
+          "position": "Major"
+        },
+        {
+          "name": "LEWIS M. WIGGINS",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID W. WILLIAMS",
+          "position": "Major"
+        },
+        {
+          "name": "JARED MICHAEL WILSON",
+          "position": "Major"
+        },
+        {
+          "name": "JESSICA L. WILSON",
+          "position": "Major"
+        },
+        {
+          "name": "ZACHARY W. WILSON",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW S. WIMMER",
+          "position": "Major"
+        },
+        {
+          "name": "DWIGHT YEPING XUAN",
+          "position": "Major"
+        },
+        {
+          "name": "JACQUELINE L. YURGIL",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD CHASE ZANETTI, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "TIMOTHY J. ZIELICKE",
+          "position": "Major"
+        }
+      ],
+      "organization": "Air Force",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1069-114",
+      "congress": 114,
+      "number": "1069",
+      "nominees": [
+        {
+          "name": "ERIC E. ABBOTT",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ERIK L. ABRAMES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "VAN W. ADAMSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CHRISTOPHER L. ALLAM",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MICHAEL A. AROCHO",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MICAH J. BAHR",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KEVIN J. BALDOVICH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAMES R. BALES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ROBERT T. BARIL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CHRISTOPHER W. BATES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "GAIL C. BATES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TIMOTHY S. BAUMGARTNER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ELIZABETH A. BEAL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SCOTT J. BENTLEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DAVID K. BIGELOW",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRANDON J. BINGHAM",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "LEAH G. BRAR",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "PAMELA J. BRODERICK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MICHAEL B. BROUGH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "AMY N. BROWN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRUCE A. BURKETT",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SUSAN J. CARBOGNIN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NICOLE CHAPPELL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "WILLIAM Y. CHU",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NATHAN F. CLEMENT",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TIMOTHY J. COKER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JASON A. COMPTON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TARA L. CONNER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DUOJIA MICHELLE COONEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAMES R. COONEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SUSANNAH C. COOPER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CHRISTINA L. CRISTALDI",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SPENCER J. CURTIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ELIZABETH A. DAVID",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "AMY M. DAVIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RICHARD P. DAVIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JONATHAN A. DAY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "WILFRED P. DELACRUZ",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NGA T. DO",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MARK B. DUDLEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SCOTT A. EISENHUTH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "STEPHEN T. ELLIOTT",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JONATHAN E. ELLIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOEL B. ELTERMAN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DAVID D. FARNSWORTH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MELINDA G. FIERROS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "AUSTIN D. FINDLEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "STACY F. FLETCHER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ADAM C. FLOOD",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "FREDERICK L. FLYNT, JR.",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RYAN D. FREELAND",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SHAWN K. FRENCH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SCOTT H. FRYE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOHN G. GANCAYCO",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "GUY N. GIBSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SHAUN M. GIFFORD",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JASON C. GOODWIN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOSE B. GOROSPE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MARIA E. GOROSPE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "FREDERICK P. GROIS, III",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MATTHEW C. GUMMERSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TRISTAN E. HANDLER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JEFFREY N. HARRIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MICHELLE M. HARRIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NOAL I. HART",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "WILLIAM A. HAYES, II",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KEVIN F. HEACOCK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JASON A. HIGEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SEAN J. HISLOP",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DIANE C. HOMEYER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "WILLIAM R. HOWARTH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JUSTIN C. HUANG",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RHOME L. HUGHES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ISAAC P. HUMPHREY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KYLE F. JARNAGIN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KEVIN N. JENSEN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SCOTT T. JENSEN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ASHLEY B. JOHNSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "FRANCES J. JONES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KEVIN KALWERISKY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ALEXANDER P. KELLER, IV",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JARED C. KELSTROM",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KEIRON T. KENNEDY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SARA S. KERLEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JEREMY P. KILBURN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DAVID A. KLEIN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SHANNON F. KLUMP",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOSHUA H. KNOWLES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAMES B. KOCH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "THOMAS J. KRYZAK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MICHAEL S. LAIDLAW",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRIAN D. LARSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ZHI V. LAU",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRIAN DAVID LAYTON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "APRIL LIGATO",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NANCY W. LO",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "WILLIAM N. LUTHIN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DUSTIN O. LYBECK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "THOMAS W. MAHONEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ANDREW S. MALIN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAMIE A. MASSIE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JASON A. MASSIGNAN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RENEE I. MATOS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JEFFREY C. MCCLEAN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TORREE M. MCGOWAN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "PEICHUN MCGREGOR",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RYAN S. MCHUGH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MARCENE R. MCVAY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ALEXANDER J. MENZE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "WAYNE J. MERBACK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "LISA R. MICHELS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CHARLES B. MILLER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DEANA L. MITCHELL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JEREMY D. MOLL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CHRISTOPHER S. MONNIKENDAM",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TYLAN A. MUNCY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOSEPH D. NOVAK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "VALERIE C. OBRIEN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JUSTIN P. OLSEN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ROBERT M. ORE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRUCE M. PALMER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BENJAMIN J. PARK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JASON D. PASLEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOSHUA B. PEAD",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CANDACE S. PERCIVAL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SERAFIM PERDIKIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KRISTINE K. PIERCE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRANDON W. PROPPER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CLAYTON J. RABENS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ANDREW G. REES",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "STEVEN REGWAN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TIGHE C. RICHARDSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "PAUL C. ROBINSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JUSTIN P. ROWBERRY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DERICK A. SAGER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KARA S. SCHULTZ",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TRISTAN L. SEVDY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JONATHAN B. SHAPIRO",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MEHDI C. SHELHAMER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MARK E. SHEPHERD",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TRIMBLE L. SPITZER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "GREGORY A. STANCEL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TRAVIS A. STEPHENSEN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "HEATHER L. STEWART",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KRISTEN MITCHELL STILLE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NORMAN E. STONE, III",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SARAH J. STRINGER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAMIE M. SWARTZ",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ROGER S. THOMAS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KATHERINE S. TILLE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "PAUL A. TILTON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAMES R. TOWNLEY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DOUGLAS R. VILLARD",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TERENCE E. WADE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DENNIS D. WALKER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ANDREW L. WALLS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "LARISSA F. WEIR",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DALIA J. WENCKUS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRAD E. WHEELER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "CALEN N. WHERRY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "AUDREA D. WILLIAMS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "PHILIP A. WIXOM",
+          "position": "Lieutenant Colonel"
+        }
+      ],
+      "organization": "Air Force",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1068-114",
+      "congress": 114,
+      "number": "1068",
+      "nominees": [
+        {
+          "name": "STEPHEN C. ARNASON",
+          "position": "Major"
+        },
+        {
+          "name": "TONYA N. BARRY",
+          "position": "Major"
+        },
+        {
+          "name": "STEPHEN C. BERG",
+          "position": "Major"
+        },
+        {
+          "name": "RUSSELL D. BIENIAS",
+          "position": "Major"
+        },
+        {
+          "name": "DAMIAN L. BLACK",
+          "position": "Major"
+        },
+        {
+          "name": "BRYAN R. BLAZER",
+          "position": "Major"
+        },
+        {
+          "name": "LUKE A. CANTAMESSA",
+          "position": "Major"
+        },
+        {
+          "name": "ANTHONY M. CARBONELLA, IV",
+          "position": "Major"
+        },
+        {
+          "name": "NICOLE M. CATARINO",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW R. CHECKETTS",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS M. CHRISTY",
+          "position": "Major"
+        },
+        {
+          "name": "TYSON CHUNG",
+          "position": "Major"
+        },
+        {
+          "name": "TODD D. CHURCH",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTIANE M. COLOMBERO",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW W. COMERCI",
+          "position": "Major"
+        },
+        {
+          "name": "ANGELA K. COOK",
+          "position": "Major"
+        },
+        {
+          "name": "ANGELA M. COOMES",
+          "position": "Major"
+        },
+        {
+          "name": "SHAWN C. COUNTRYMAN",
+          "position": "Major"
+        },
+        {
+          "name": "DARRELL M. CURTIS",
+          "position": "Major"
+        },
+        {
+          "name": "BRENT N. DELONG",
+          "position": "Major"
+        },
+        {
+          "name": "GINA M. DOMM",
+          "position": "Major"
+        },
+        {
+          "name": "HANNAH C. DREW",
+          "position": "Major"
+        },
+        {
+          "name": "BARRINGTON W. DYKES",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW T. EGGENBERGER",
+          "position": "Major"
+        },
+        {
+          "name": "WHITNEY L. EICHHOLZ",
+          "position": "Major"
+        },
+        {
+          "name": "ARAGON R. ELLWANGER",
+          "position": "Major"
+        },
+        {
+          "name": "MICHAEL C. ENGLISH",
+          "position": "Major"
+        },
+        {
+          "name": "JON C. FEDERSPIEL",
+          "position": "Major"
+        },
+        {
+          "name": "ERIN BIEBL FINK",
+          "position": "Major"
+        },
+        {
+          "name": "CARMEN N. GALEA",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. GILLETTE",
+          "position": "Major"
+        },
+        {
+          "name": "CHRIS A. GIROUARD",
+          "position": "Major"
+        },
+        {
+          "name": "JONATHAN P. HARMON",
+          "position": "Major"
+        },
+        {
+          "name": "ASHLEY N. HARRIS",
+          "position": "Major"
+        },
+        {
+          "name": "THOMAS J. HEIDENREICH",
+          "position": "Major"
+        },
+        {
+          "name": "PETER L. HOLDEN",
+          "position": "Major"
+        },
+        {
+          "name": "ADAM R. HURST",
+          "position": "Major"
+        },
+        {
+          "name": "JESSICA H. JAWOROWICZ",
+          "position": "Major"
+        },
+        {
+          "name": "LESLIE N. JONES",
+          "position": "Major"
+        },
+        {
+          "name": "BRANDON W. KEYSER",
+          "position": "Major"
+        },
+        {
+          "name": "AMANDA D. KLAYUM",
+          "position": "Major"
+        },
+        {
+          "name": "JEFFERY A. KOHLER, JR.",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES W. KOLL",
+          "position": "Major"
+        },
+        {
+          "name": "EUNLIM LEE",
+          "position": "Major"
+        },
+        {
+          "name": "SPENCER M. LEE",
+          "position": "Major"
+        },
+        {
+          "name": "MARK P. LEWIS",
+          "position": "Major"
+        },
+        {
+          "name": "EVAN YUTAKA K. MASUNAGA",
+          "position": "Major"
+        },
+        {
+          "name": "JASON R. MAY",
+          "position": "Major"
+        },
+        {
+          "name": "ELIZABETH ANNE ROSADO MCCOURT",
+          "position": "Major"
+        },
+        {
+          "name": "AMBER A. MILLER",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW S. MILLER",
+          "position": "Major"
+        },
+        {
+          "name": "TERRELL M. MITCHELL",
+          "position": "Major"
+        },
+        {
+          "name": "JAMES P. NALL",
+          "position": "Major"
+        },
+        {
+          "name": "DUY Q. NGUYEN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW J. NIELSEN",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW F. PASTEWAIT",
+          "position": "Major"
+        },
+        {
+          "name": "MICHELLE M. PRATHER",
+          "position": "Major"
+        },
+        {
+          "name": "EVAN E. ROBERTS",
+          "position": "Major"
+        },
+        {
+          "name": "JASON D. SCHOENER",
+          "position": "Major"
+        },
+        {
+          "name": "MATTHEW G. SETLIFF",
+          "position": "Major"
+        },
+        {
+          "name": "RYAN R. SHERIDAN",
+          "position": "Major"
+        },
+        {
+          "name": "JENNIFER O. SIMMONS",
+          "position": "Major"
+        },
+        {
+          "name": "HECTOR C. SIORDIA",
+          "position": "Major"
+        },
+        {
+          "name": "CASEY M. SLACK",
+          "position": "Major"
+        },
+        {
+          "name": "JACOB D. SLADKY",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTOPHER J. SMITH",
+          "position": "Major"
+        },
+        {
+          "name": "JAMIE L. SMITH",
+          "position": "Major"
+        },
+        {
+          "name": "BENJAMIN W. SONG",
+          "position": "Major"
+        },
+        {
+          "name": "GORDON D. STABLEY",
+          "position": "Major"
+        },
+        {
+          "name": "MICHELLE K. TARTAGLIA",
+          "position": "Major"
+        },
+        {
+          "name": "JESSAMY J. THORNTON",
+          "position": "Major"
+        },
+        {
+          "name": "ANDREW D. THORSEN",
+          "position": "Major"
+        },
+        {
+          "name": "RICHARD W. WADDELL",
+          "position": "Major"
+        },
+        {
+          "name": "MARTIN W. WALSH",
+          "position": "Major"
+        },
+        {
+          "name": "CHRISTINA A. WENGLER",
+          "position": "Major"
+        },
+        {
+          "name": "DAVID J. WEYH",
+          "position": "Major"
+        },
+        {
+          "name": "JON R. WILLISON",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN C. WILSON",
+          "position": "Major"
+        },
+        {
+          "name": "JOHN R. YANCEY",
+          "position": "Major"
+        }
+      ],
+      "organization": "Air Force",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1067-114",
+      "congress": 114,
+      "number": "1067",
+      "nominees": [
+        {
+          "name": "BRETT C. ANDERSON",
+          "position": "Colonel"
+        },
+        {
+          "name": "MARK R. ANDERSON",
+          "position": "Colonel"
+        },
+        {
+          "name": "DAVID E. ANDRUS",
+          "position": "Colonel"
+        },
+        {
+          "name": "MARIA M. ANGLES",
+          "position": "Colonel"
+        },
+        {
+          "name": "STACEY L. BRANCH",
+          "position": "Colonel"
+        },
+        {
+          "name": "FRANCIS R. CARANDANG",
+          "position": "Colonel"
+        },
+        {
+          "name": "DAVID H. CARNAHAN",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHAEL T. CHARLTON",
+          "position": "Colonel"
+        },
+        {
+          "name": "PETER G. CRAWLEY",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHAEL R. DAVIS",
+          "position": "Colonel"
+        },
+        {
+          "name": "JAMISON W. ELDER",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHELLE S. FLORES",
+          "position": "Colonel"
+        },
+        {
+          "name": "JAY T. FLOTTMANN",
+          "position": "Colonel"
+        },
+        {
+          "name": "THERESA B. GOODMAN",
+          "position": "Colonel"
+        },
+        {
+          "name": "WADE T. GORDON",
+          "position": "Colonel"
+        },
+        {
+          "name": "YVETTE GUZMAN",
+          "position": "Colonel"
+        },
+        {
+          "name": "KYLE B. HUDSON",
+          "position": "Colonel"
+        },
+        {
+          "name": "TODD P. HUHN",
+          "position": "Colonel"
+        },
+        {
+          "name": "JON R. JACOBSON",
+          "position": "Colonel"
+        },
+        {
+          "name": "DAVID S. JONES",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHELE L. KNIERIM",
+          "position": "Colonel"
+        },
+        {
+          "name": "JEFFREY D. LEWIS",
+          "position": "Colonel"
+        },
+        {
+          "name": "KEEGAN M. LYONS",
+          "position": "Colonel"
+        },
+        {
+          "name": "MICHAEL A. MADRID",
+          "position": "Colonel"
+        },
+        {
+          "name": "DANIEL S. MADSEN",
+          "position": "Colonel"
+        },
+        {
+          "name": "CHARLES G. MAHAKIAN",
+          "position": "Colonel"
+        },
+        {
+          "name": "PHILLIP E. MASON",
+          "position": "Colonel"
+        },
+        {
+          "name": "CHRISTOPHER J. MATHEWS",
+          "position": "Colonel"
+        },
+        {
+          "name": "EDWARD L. MAZUCHOWSKI, II",
+          "position": "Colonel"
+        },
+        {
+          "name": "ALYSSA C. MCMANAMON",
+          "position": "Colonel"
+        },
+        {
+          "name": "QUINTESSA MILLER",
+          "position": "Colonel"
+        },
+        {
+          "name": "ANTHONY L. MITCHELL",
+          "position": "Colonel"
+        },
+        {
+          "name": "DANIEL H. MURRAY",
+          "position": "Colonel"
+        },
+        {
+          "name": "BRETT R. NISHIKAWA",
+          "position": "Colonel"
+        },
+        {
+          "name": "PATRICK M. OSBORN",
+          "position": "Colonel"
+        },
+        {
+          "name": "WESLEY D. PALMER",
+          "position": "Colonel"
+        },
+        {
+          "name": "GILBERTO PATINO",
+          "position": "Colonel"
+        },
+        {
+          "name": "SALVATORE PELLIGRA",
+          "position": "Colonel"
+        },
+        {
+          "name": "TIMOTHY M. PHILLIPS",
+          "position": "Colonel"
+        },
+        {
+          "name": "ROBERT R. PORCHIA",
+          "position": "Colonel"
+        },
+        {
+          "name": "TONYA S. RANS",
+          "position": "Colonel"
+        },
+        {
+          "name": "MARK G. RIEKER",
+          "position": "Colonel"
+        },
+        {
+          "name": "ERIC M. RITTER",
+          "position": "Colonel"
+        },
+        {
+          "name": "RECHELL G. RODRIGUEZ",
+          "position": "Colonel"
+        },
+        {
+          "name": "JIFFY C. SETO",
+          "position": "Colonel"
+        },
+        {
+          "name": "ROBERT M. SHIDELER",
+          "position": "Colonel"
+        },
+        {
+          "name": "JOHN H. W. A. SLADKY",
+          "position": "Colonel"
+        },
+        {
+          "name": "CHRISTINE E. STAHL",
+          "position": "Colonel"
+        },
+        {
+          "name": "THOMAS W. STAMP",
+          "position": "Colonel"
+        },
+        {
+          "name": "KEVIN E. STEEL",
+          "position": "Colonel"
+        },
+        {
+          "name": "DEENA E. SUTTER",
+          "position": "Colonel"
+        },
+        {
+          "name": "MATTHEW R. TALARCZYK",
+          "position": "Colonel"
+        },
+        {
+          "name": "JOSEPH D. VILLACIS",
+          "position": "Colonel"
+        },
+        {
+          "name": "KIRSTEN R. VITRIKAS",
+          "position": "Colonel"
+        },
+        {
+          "name": "DANIEL R. WALKER",
+          "position": "Colonel"
+        },
+        {
+          "name": "MAUREEN N. WILLIAMS",
+          "position": "Colonel"
+        },
+        {
+          "name": "SHAHID A. ZAIDI",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Air Force",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1066-114",
+      "congress": 114,
+      "number": "1066",
+      "nominees": [
+        {
+          "name": "BRIAN J. ALENT",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "ELIZABETH A. BOWMAN",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JEFFREY R. BURROUGHS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JAN R. CARLSON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BENJAMIN T. CLARK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DAVID M. DENNISON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JENNIFER M. DEPEW",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RYAN M. DIEPENBROCK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "MATTHEW J. EDWARDS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BENJAMIN J. GANTT",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JOHN M. GILLIS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "HANLING H. JOSWICK",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "NEIL C. KESSEL",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JONGSUNG KIM",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "AARON T. KRANCE",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "LOUIS JOSEPH MARCONYAK, JR.",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "AMY G. MASON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "SHAWN P. MCMAHON",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "TAMARA A. MURRAY",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "KRISTEN B. NICHOLS",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "JELENA C. SEIBOLD",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "PAUL A. SMITH",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "DRAGOS STEFANDOGAR",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "RACHEL A. WEBER",
+          "position": "Lieutenant Colonel"
+        },
+        {
+          "name": "BRYAN A. WILLIAMS",
+          "position": "Lieutenant Colonel"
+        }
+      ],
+      "organization": "Air Force",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    },
+    {
+      "nomination_id": "PN1065-114",
+      "congress": 114,
+      "number": "1065",
+      "nominees": [
+        {
+          "name": "ERIC R. BAUGH, JR.",
+          "position": "Colonel"
+        },
+        {
+          "name": "ROBERT W. BECK",
+          "position": "Colonel"
+        },
+        {
+          "name": "DORON BRESLER",
+          "position": "Colonel"
+        },
+        {
+          "name": "CASEY M. CAMPBELL",
+          "position": "Colonel"
+        },
+        {
+          "name": "STEPHEN H. CHARTIER",
+          "position": "Colonel"
+        },
+        {
+          "name": "FREDERICK A. CONNER",
+          "position": "Colonel"
+        },
+        {
+          "name": "JONATHAN D. EVANS",
+          "position": "Colonel"
+        },
+        {
+          "name": "DANIEL B. GABRIEL",
+          "position": "Colonel"
+        },
+        {
+          "name": "MARCO V. GALVEZ",
+          "position": "Colonel"
+        },
+        {
+          "name": "CECILIA I. GARIN",
+          "position": "Colonel"
+        },
+        {
+          "name": "DAVID E. HALL",
+          "position": "Colonel"
+        },
+        {
+          "name": "DENNIS M. HOLT",
+          "position": "Colonel"
+        },
+        {
+          "name": "DAVID M. JONES",
+          "position": "Colonel"
+        },
+        {
+          "name": "MIKELLE L. KERNIG",
+          "position": "Colonel"
+        },
+        {
+          "name": "JAMES DALE KISER, JR.",
+          "position": "Colonel"
+        },
+        {
+          "name": "KELLI C. MACK",
+          "position": "Colonel"
+        },
+        {
+          "name": "KARYN E. MCKINNEY",
+          "position": "Colonel"
+        },
+        {
+          "name": "BARRY F. MORRIS",
+          "position": "Colonel"
+        },
+        {
+          "name": "JEANLUC G. C. NIEL",
+          "position": "Colonel"
+        }
+      ],
+      "organization": "Air Force",
+      "received_on": "2016-01-11",
+      "committee_ids": [ "SSAS" ],
+      "last_action": {
+        "acted_at": "2016-01-11",
+        "location": "floor",
+        "text": "Received in the Senate and referred to the Committee on Armed Services.",
+        "type": "action"
+      },
+      "last_action_at": "2016-01-11"
+    }
+  ],
+  "count": 5242,
+  "page": {
+    "count": 20,
+    "per_page": 20,
+    "page": 1
+  }
+}

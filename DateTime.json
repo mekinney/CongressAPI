@@ -1,0 +1,261 @@
+// Query: /bills?page=0&per_page=50&fields=bill_id,last_vote_at&order=sponsor_id__asc&sponsor_id__in=L000585|C001047
+{
+  "results": [
+    {
+      "bill_id": "hr199-112",
+      "introduced_on": "2011-01-06",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr534-112",
+      "introduced_on": "2011-02-08",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1868-112",
+      "introduced_on": "2011-05-12",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr2323-112",
+      "introduced_on": "2011-06-23",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr2983-112",
+      "introduced_on": "2011-09-21",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr3369-112",
+      "introduced_on": "2011-11-04",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hconres23-112",
+      "introduced_on": "2011-02-28",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1331-111",
+      "introduced_on": "2009-03-05",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1847-111",
+      "introduced_on": "2009-04-01",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1904-111",
+      "introduced_on": "2009-04-02",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1989-111",
+      "introduced_on": "2009-04-21",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr2073-111",
+      "introduced_on": "2009-04-23",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr2587-111",
+      "introduced_on": "2009-05-21",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr3413-111",
+      "introduced_on": "2009-07-30",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4049-111",
+      "introduced_on": "2009-11-06",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4048-111",
+      "introduced_on": "2009-11-06",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4811-111",
+      "introduced_on": "2010-03-10",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr5003-111",
+      "introduced_on": "2010-04-13",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr5031-111",
+      "introduced_on": "2010-04-15",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr5788-111",
+      "introduced_on": "2010-07-20",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1081-112",
+      "introduced_on": "2011-03-15",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1667-112",
+      "introduced_on": "2011-05-02",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr1872-112",
+      "introduced_on": "2011-05-12",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr2324-112",
+      "introduced_on": "2011-06-23",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr3697-112",
+      "introduced_on": "2011-12-16",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4873-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4874-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4875-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4876-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4877-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4878-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4879-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4880-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4881-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4882-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4883-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4884-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4885-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4886-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4887-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4888-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4889-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4890-112",
+      "introduced_on": "2012-04-26",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr5565-112",
+      "introduced_on": "2012-05-08",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr5961-112",
+      "introduced_on": "2012-06-19",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr4050-111",
+      "introduced_on": "2009-11-06",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hres568-111",
+      "introduced_on": "2009-06-19",
+      "last_vote_at": "2009-10-28T15:54:00Z"
+    },
+    {
+      "bill_id": "hr3461-112",
+      "introduced_on": "2011-11-17",
+      "last_vote_at": null
+    },
+    {
+      "bill_id": "hr2421-111",
+      "introduced_on": "2009-05-14",
+      "last_vote_at": "2010-05-05T16:34:00Z"
+    },
+    {
+      "bill_id": "hr2547-113",
+      "introduced_on": "2013-06-27",
+      "last_vote_at": null
+    }
+  ],
+  "count": 76,
+  "page": {
+    "count": 50,
+    "per_page": 50,
+    "page": 1
+  }
+}

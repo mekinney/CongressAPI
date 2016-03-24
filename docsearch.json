@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "document_type_name": "GAO Report",
+      "published_on": "2011-09-08",
+      "categories": [ "Homeland Security", "Department of Homeland Security" ],
+      "document_id": "GAO-126886",
+      "posted_at": "2011-09-08T13:00:00Z",
+      "title": "Progress Made and Work Remaining in Implementing Homeland Security Missions 10 Years after 9/11",
+      "url": "http://gao.gov/products/GAO-11-940T",
+      "source_url": "http://gao.gov/assets/130/126877.pdf",
+      "document_type": "gao_report",
+      "search": {
+        "score": 1,
+        "type": "document"
+      }
+    },
+    {
+      "document_type_name": "Inspector General Report",
+      "published_on": "2013-11-26",
+      "document_id": "ig_report-epa-2013-14-P-0033",
+      "title": "Fiscal Year 2013 Federal Information Security Management Act Report: Status of EPA's Computer Security Program",
+      "posted_at": "2013-11-26T05:00:00Z",
+      "url": "http://www.epa.gov/oig/reports/2014/20131126-14-P-0033.pdf",
+      "source_url": "http://www.epa.gov/oig/reports/2014/20131126-14-P-0033.pdf",
+      "document_type": "ig_report",
+      "search": {
+        "score": 1,
+        "type": "document"
+      }
+    }
+  ],
+  "count": 2,
+  "page": {
+    "count": 2,
+    "per_page": 20,
+    "page": 1
+  }
+}

@@ -1,0 +1,418 @@
+// ---------------------/bills?sponsor.party=R&history.vetoed=true------------------------------------------------
+{
+  "results": [
+    {
+      "bill_id": "sjres24-114",
+      "bill_type": "sjres",
+      "chamber": "senate",
+      "committee_ids": [ "SSEV" ],
+      "congress": 114,
+      "cosponsors_count": 48,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2015-11-16",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2015-12-01T22:17:00Z",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2015-11-17",
+        "vetoed": true,
+        "vetoed_at": "2015-12-18"
+      },
+      "introduced_on": "2015-10-26",
+      "last_action_at": "2015-12-18",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2015-12-03",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "sjres24-114-enr",
+        "urls": {
+          "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres24enr/html/BILLS-114sjres24enr.htm",
+          "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres24enr/pdf/BILLS-114sjres24enr.pdf",
+          "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres24enr/xml/BILLS-114sjres24enr.xml"
+        },
+        "pages": 1
+      },
+      "last_version_on": "2015-12-03",
+      "last_vote_at": "2015-12-01T22:17:00Z",
+      "number": 24,
+      "official_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to \"Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units\".",
+      "popular_title": null,
+      "related_bill_ids": [ "hres539-114", "hjres67-114", "hjres72-114", "hjres72-114" ],
+      "short_title": null,
+      "sponsor": {
+        "first_name": "Shelley",
+        "last_name": "Capito",
+        "middle_name": "Moore",
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Sen"
+      },
+      "sponsor_id": "C001047",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/114th/senate-joint-resolution/24",
+        "govtrack": "https://www.govtrack.us/congress/bills/114/sjres24",
+        "opencongress": "https://www.opencongress.org/bill/sjres24-114"
+      },
+      "withdrawn_cosponsors_count": 0
+    },
+    {
+      "bill_id": "sjres23-114",
+      "bill_type": "sjres",
+      "chamber": "senate",
+      "committee_ids": [ "SSEV" ],
+      "congress": 114,
+      "cosponsors_count": 47,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2015-11-16",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2015-12-01T22:25:00Z",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2015-11-17",
+        "vetoed": true,
+        "vetoed_at": "2015-12-18"
+      },
+      "introduced_on": "2015-10-26",
+      "last_action_at": "2015-12-18",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2015-12-02",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "sjres23-114-enr",
+        "urls": {
+          "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres23enr/html/BILLS-114sjres23enr.htm",
+          "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres23enr/pdf/BILLS-114sjres23enr.pdf",
+          "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres23enr/xml/BILLS-114sjres23enr.xml"
+        },
+        "pages": 1
+      },
+      "last_version_on": "2015-12-02",
+      "last_vote_at": "2015-12-01T22:25:00Z",
+      "number": 23,
+      "official_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to \"Standards of Performance for Greenhouse Gas Emissions from New, Modified, and Reconstructed Stationary Sources: Electric Utility Generating Units\".",
+      "popular_title": null,
+      "related_bill_ids": [ "hres539-114", "hres539-114", "hjres68-114", "hjres71-114", "hjres71-114" ],
+      "short_title": null,
+      "sponsor": {
+        "first_name": "Mitch",
+        "last_name": "McConnell",
+        "middle_name": null,
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Sen"
+      },
+      "sponsor_id": "M000355",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/114th/senate-joint-resolution/23",
+        "govtrack": "https://www.govtrack.us/congress/bills/114/sjres23",
+        "opencongress": "https://www.opencongress.org/bill/sjres23-114"
+      },
+      "withdrawn_cosponsors_count": 0
+    },
+    {
+      "bill_id": "hr3762-114",
+      "bill_type": "hr",
+      "chamber": "house",
+      "committee_ids": [ "HSBU" ],
+      "congress": 114,
+      "cosponsors_count": 0,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2015-10-21T23:36:00Z",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2016-01-06T22:54:00Z",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2015-12-03",
+        "vetoed": true,
+        "vetoed_at": "2016-01-08"
+      },
+      "introduced_on": "2015-10-16",
+      "last_action_at": "2016-01-08T18:01:00Z",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2016-01-09",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "hr3762-114-enr",
+        "urls": {
+          "html": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr3762enr/html/BILLS-114hr3762enr.htm",
+          "pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr3762enr/pdf/BILLS-114hr3762enr.pdf",
+          "xml": "https://www.gpo.gov/fdsys/pkg/BILLS-114hr3762enr/xml/BILLS-114hr3762enr.xml"
+        },
+        "pages": 8
+      },
+      "last_version_on": "2016-01-09",
+      "last_vote_at": "2016-01-06T22:54:00Z",
+      "number": 3762,
+      "official_title": "To provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.",
+      "popular_title": null,
+      "related_bill_ids": [ "hres483-114", "hres579-114" ],
+      "short_title": "Restoring Americans' Healthcare Freedom Reconciliation Act of 2015",
+      "sponsor": {
+        "first_name": "Tom",
+        "last_name": "Price",
+        "middle_name": null,
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Rep"
+      },
+      "sponsor_id": "P000591",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/114th/house-bill/3762",
+        "govtrack": "https://www.govtrack.us/congress/bills/114/hr3762",
+        "opencongress": "https://www.opencongress.org/bill/hr3762-114"
+      },
+      "withdrawn_cosponsors_count": 0
+    },
+    {
+      "bill_id": "hr1735-114",
+      "bill_type": "hr",
+      "chamber": "house",
+      "committee_ids": [ "HSAS", "HSAS26", "HSAS03", "HSAS25", "HSAS02", "HSAS28", "HSAS29" ],
+      "congress": 114,
+      "cosponsors_count": 1,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2015-04-22",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2015-10-01T17:33:00Z",
+        "senate_cloture_result": "pass",
+        "senate_cloture_result_at": "2015-06-17",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2015-10-07",
+        "vetoed": true,
+        "vetoed_at": "2015-10-22"
+      },
+      "introduced_on": "2015-04-13",
+      "last_action_at": "2015-10-22",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2015-10-09",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "hr1735-114-enr",
+        "urls": {
+          "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1735enr/html/BILLS-114hr1735enr.htm",
+          "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1735enr/pdf/BILLS-114hr1735enr.pdf",
+          "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114hr1735enr/xml/BILLS-114hr1735enr.xml"
+        },
+        "pages": 581
+      },
+      "last_version_on": "2015-10-09",
+      "last_vote_at": "2015-10-07",
+      "number": 1735,
+      "official_title": "An act to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+      "popular_title": null,
+      "related_bill_ids": [ "hconres81-114", "hconres81-114", "hres179-114", "hres255-114", "hres255-114", "hres255-114", "hres260-114", "hres340-114", "hres340-114", "hres449-114", "hr135-114", "hr147-114", "hr838-114", "hr955-114", "hr1227-114", "hr1337-114", "hr1349-114", "hr1384-114", "hr1386-114", "hr1390-114", "hr1410-114", "hr1451-114", "hr1481-114", "hr1583-114", "hr1597-114", "hr1864-114", "hr2026-114", "hr2055-114", "hr2133-114", "hr2294-114", "hr2747-114", "hr3966-114", "hr4126-114", "s743-114", "s958-114", "s1118-114", "s1266-114", "s1290-114", "s1292-114", "s1313-114", "s1326-114", "s1356-114", "s1376-114", "s1437-114", "s1478-114", "s1815-114", "s2139-114" ],
+      "short_title": "National Defense Authorization Act for Fiscal Year 2016",
+      "sponsor": {
+        "first_name": "Mac",
+        "last_name": "Thornberry",
+        "middle_name": "M.",
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Rep"
+      },
+      "sponsor_id": "T000238",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/114th/house-bill/1735",
+        "govtrack": "https://www.govtrack.us/congress/bills/114/hr1735",
+        "opencongress": "https://www.opencongress.org/bill/hr1735-114"
+      },
+      "withdrawn_cosponsors_count": 0
+    },
+    {
+      "bill_id": "sjres8-114",
+      "bill_type": "sjres",
+      "chamber": "senate",
+      "committee_ids": [ "SSHR" ],
+      "congress": 114,
+      "cosponsors_count": 51,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2015-02-23",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2015-03-19T16:09:00Z",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2015-03-04",
+        "vetoed": true,
+        "vetoed_at": "2015-03-31"
+      },
+      "introduced_on": "2015-02-09",
+      "last_action_at": "2015-05-05",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2015-03-24",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "sjres8-114-enr",
+        "urls": {
+          "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres8enr/html/BILLS-114sjres8enr.htm",
+          "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres8enr/pdf/BILLS-114sjres8enr.pdf",
+          "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114sjres8enr/xml/BILLS-114sjres8enr.xml"
+        },
+        "pages": 1
+      },
+      "last_version_on": "2015-03-24",
+      "last_vote_at": "2015-03-19T16:09:00Z",
+      "number": 8,
+      "official_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.",
+      "popular_title": null,
+      "related_bill_ids": [ "hres152-114", "hjres29-114" ],
+      "short_title": null,
+      "sponsor": {
+        "first_name": "Lamar",
+        "last_name": "Alexander",
+        "middle_name": null,
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Sen"
+      },
+      "sponsor_id": "A000360",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/114th/senate-joint-resolution/8",
+        "govtrack": "https://www.govtrack.us/congress/bills/114/sjres8",
+        "opencongress": "https://www.opencongress.org/bill/sjres8-114"
+      },
+      "withdrawn_cosponsors_count": 0
+    },
+    {
+      "bill_id": "s1-114",
+      "bill_type": "s",
+      "chamber": "senate",
+      "committee_ids": [ ],
+      "congress": 114,
+      "cosponsors_count": 59,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2015-01-08",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2015-02-11T22:14:00Z",
+        "senate_cloture_result": "pass",
+        "senate_cloture_result_at": "2015-01-12",
+        "senate_override_result": "fail",
+        "senate_override_result_at": "2015-03-04",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2015-01-29",
+        "vetoed": true,
+        "vetoed_at": "2015-02-24"
+      },
+      "introduced_on": "2015-01-06",
+      "last_action_at": "2015-03-04",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2015-02-13",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "s1-114-enr",
+        "urls": {
+          "html": "http://www.gpo.gov/fdsys/pkg/BILLS-114s1enr/html/BILLS-114s1enr.htm",
+          "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-114s1enr/pdf/BILLS-114s1enr.pdf",
+          "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-114s1enr/xml/BILLS-114s1enr.xml"
+        },
+        "pages": 13
+      },
+      "last_version_on": "2015-02-13",
+      "last_vote_at": "2015-03-04",
+      "number": 1,
+      "official_title": "A bill to approve the Keystone XL Pipeline.",
+      "popular_title": null,
+      "related_bill_ids": [ "hres100-114", "hr3-114", "hr873-114", "hr906-114", "hr1867-114", "hr2177-114", "s147-114", "s259-114", "s523-114", "s720-114", "s1052-114" ],
+      "short_title": "Keystone XL Pipeline Approval Act",
+      "sponsor": {
+        "first_name": "John",
+        "last_name": "Hoeven",
+        "middle_name": null,
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Sen"
+      },
+      "sponsor_id": "H001061",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/114th/senate-bill/1",
+        "govtrack": "https://www.govtrack.us/congress/bills/114/s1",
+        "opencongress": "https://www.opencongress.org/bill/s1-114"
+      },
+      "withdrawn_cosponsors_count": 0
+    },
+    {
+      "bill_id": "hr3808-111",
+      "bill_type": "hr",
+      "chamber": "house",
+      "committee_ids": [ "HSJU", "HSJU03", "SSJU" ],
+      "congress": 111,
+      "cosponsors_count": 3,
+      "enacted_as": null,
+      "history": {
+        "active": true,
+        "active_at": "2010-04-27T21:15:00Z",
+        "awaiting_signature": false,
+        "enacted": false,
+        "house_override_result": "fail",
+        "house_override_result_at": "2010-11-17T22:24:00Z",
+        "house_passage_result": "pass",
+        "house_passage_result_at": "2010-04-27T21:23:00Z",
+        "senate_passage_result": "pass",
+        "senate_passage_result_at": "2010-09-27",
+        "vetoed": true,
+        "vetoed_at": "2010-10-08"
+      },
+      "introduced_on": "2009-10-14",
+      "last_action_at": "2010-11-17T22:24:00Z",
+      "last_version": {
+        "version_code": "enr",
+        "issued_on": "2010-09-29",
+        "version_name": "Enrolled Bill",
+        "bill_version_id": "hr3808-111-enr",
+        "urls": {
+          "html": "http://www.gpo.gov/fdsys/pkg/BILLS-111hr3808enr/html/BILLS-111hr3808enr.htm",
+          "pdf": "http://www.gpo.gov/fdsys/pkg/BILLS-111hr3808enr/pdf/BILLS-111hr3808enr.pdf",
+          "xml": "http://www.gpo.gov/fdsys/pkg/BILLS-111hr3808enr/xml/BILLS-111hr3808enr.xml"
+        },
+        "pages": 2
+      },
+      "last_version_on": "2010-09-29",
+      "last_vote_at": "2010-11-17T22:24:00Z",
+      "number": 3808,
+      "official_title": "To require any Federal or State court to recognize any notarization made by a notary public licensed by a State other than the State where the court is located when such notarization occurs in or affects interstate commerce.",
+      "popular_title": null,
+      "related_bill_ids": [ ],
+      "short_title": "Interstate Recognition of Notarizations Act of 2010",
+      "sponsor": {
+        "first_name": "Robert",
+        "last_name": "Aderholt",
+        "middle_name": "B.",
+        "name_suffix": null,
+        "nickname": null,
+        "title": "Rep"
+      },
+      "sponsor_id": "A000055",
+      "urls": {
+        "congress": "http://beta.congress.gov/bill/111th/house-bill/3808",
+        "govtrack": "http://www.govtrack.us/congress/bills/111/hr3808",
+        "opencongress": "http://www.opencongress.org/bill/111-h3808/show"
+      },
+      "withdrawn_cosponsors_count": 0
+    }
+  ],
+  "count": 7,
+  "page": {
+    "count": 7,
+    "per_page": 20,
+    "page": 1
+  }
+}

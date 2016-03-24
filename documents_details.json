@@ -1,0 +1,50 @@
+// ------------------documents/search?document_id__in=ig_report-epa-2013-14-P-0033|GAO-126886&fields=document_type,gao_report,ig_report--------------------------
+{
+  "results": [
+    {
+      "gao_report": {
+        "report_number": "GAO-11-940T",
+        "supplement_url": null,
+        "gao_id": "126886",
+        "description": "The terrorist attacks of September 11, 2001, led to profound changes in government agendas, policies and structures to confront homeland security threats facing the nation. Most notably, the Department of Homeland Security (DHS) began operations in 2003 with key missions that included preventing terrorist attacks from occurring in the United States, reducing the country's vulnerability to terrorism, and minimizing the damages from any attacks that may occur. DHS is now the third-largest federal department, with more than 200,000 employees and an annual budget of more than $50 billion. Since 2003, GAO has issued over 1,000 products on DHS's operations in such areas as transportation security and emergency management, among others. As requested, this testimony addresses DHS's progress and challenges in implementing its homeland security missions since it began operations, and issues affecting implementation efforts. This testimony is based on a report GAO issued in September 2011, which assessed DHS's progress in implementing its homeland security functions and work remaining.\n\nSince it began operations in 2003, DHS has implemented key homeland security operations and achieved important goals and milestones in many areas to create and strengthen a foundation to reach its potential. As it continues to mature, however, more work remains for DHS to address gaps and weaknesses in its current operational and implementation efforts, and to strengthen the efficiency and effectiveness of those efforts to achieve its full potential. DHS's accomplishments include developing strategic and operational plans; deploying workforces; and establishing new, or expanding existing, offices and programs. For example, DHS (1) issued plans to guide its efforts, such as the Quadrennial Homeland Security Review, which provides a framework for homeland security, and the National Response Framework, which outlines disaster response guiding principles; (2) successfully hired, trained, and deployed workforces, such as a federal screening workforce to assume security screening responsibilities at airports nationwide; and (3) created new programs and offices to implement its homeland security responsibilities, such as establishing the U.S. Computer Emergency Readiness Team to help coordinate efforts to address cybersecurity threats. Such accomplishments are noteworthy given that DHS has had to work to transform itself into a fully functioning department while implementing its missions--a difficult undertaking that can take years to achieve. While DHS has made progress, its transformation remains high risk due to its management challenges. Examples of progress made and work remaining include: Border security. DHS implemented the U.S. Visitor and Immigrant Status Indicator Technology program to verify the identities of foreign visitors entering and exiting the country by processing biometric and biographic information. However, DHS has not yet determined how to implement a biometric exit capability and has taken action to address a small portion of the estimated overstay population in the United States (individuals who legally entered the country but then overstayed their authorized periods of admission). Aviation security. DHS developed and implemented Secure Flight, a program for screening airline passengers against terrorist watchlist records. DHS also developed new programs and technologies to screen passengers, checked baggage, and air cargo. However, DHS does not yet have a plan for deploying checked baggage screening technologies to meet recently enhanced explosive detection requirements, a mechanism to verify the accuracy of data to help ensure that air cargo screening is being conducted at reported levels, or approved technology to screen cargo once it is loaded onto a pallet or container. Emergency preparedness and response. DHS issued the National Preparedness Guidelines that describe a national framework for capabilities-based preparedness, and a Target Capabilities List to provide a national-level generic model of capabilities defining all-hazards preparedness. DHS is also finalizing a National Disaster Recovery Framework. However, DHS needs to strengthen its efforts to assess capabilities for all-hazards preparedness, and develop a long-term recovery structure to better align timing and involvement with state and local governments' capacity. Chemical, biological, radiological and nuclear (CBRN) threats. DHS assessed risks posed by CBRN threats and deployed capabilities to detect CBRN threats. However, DHS should work to improve its coordination of CBRN risk assessments, and identify monitoring mechanisms for determining progress made in implementing the global nuclear detection strategy. GAO's work identified three themes at the foundation of DHS's challenges: Leading and coordinating the homeland security enterprise; Implementing and integrating management functions for results; and Strategically managing risks and assessing homeland security efforts. This testimony contains no new recommendations.",
+        "links": null,
+        "youtube_id": null
+      },
+      "document_id": "GAO-126886",
+      "document_type": "gao_report",
+      "search": {
+        "score": 1,
+        "type": "document"
+      }
+    },
+    {
+      "ig_report": {
+        "agency_name": "Environmental Protection Agency",
+        "agency": "epa",
+        "year": 2013,
+        "published_on": "2013-11-26",
+        "inspector": "epa",
+        "title": "Fiscal Year 2013 Federal Information Security Management Act Report: Status of EPA's Computer Security Program",
+        "type": "report",
+        "url": "http://www.epa.gov/oig/reports/2014/20131126-14-P-0033.pdf",
+        "inspector_url": "http://www.epa.gov/oig",
+        "file_type": "pdf",
+        "report_id": "14-P-0033",
+        "summary_only": false,
+        "summary_url": "http://www.epa.gov/oig/reports/2014/20131126-14-P-0033_glance.pdf"
+      },
+      "document_id": "ig_report-epa-2013-14-P-0033",
+      "document_type": "ig_report",
+      "search": {
+        "score": 1,
+        "type": "document"
+      }
+    }
+  ],
+  "count": 2,
+  "page": {
+    "count": 2,
+    "per_page": 20,
+    "page": 1
+  }
+}

@@ -1,0 +1,1552 @@
+{
+  "results": [
+    {
+      "house_event_id": 104390,
+      "chamber": "house",
+      "committee_id": "HSSM",
+      "congress": 114,
+      "occurs_at": "2016-02-02T16:00:00Z",
+      "room": "Rayburn HOB 2360, Washington, D.C. 20515",
+      "description": "SBA Management Review: Oversight of SBA's Entrepreneurial Development Offices",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSSM",
+        "name": "House Committee on Small Business",
+        "office": "2361 RHOB",
+        "phone": "(202) 225-5821",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104390",
+      "hearing_type": "Hearing",
+      "hearing_id": "dc838730488c86e30d35e5784feace7d"
+    },
+    {
+      "house_event_id": 104391,
+      "chamber": "house",
+      "committee_id": "HSJU",
+      "congress": 114,
+      "occurs_at": "2016-02-02T18:00:00Z",
+      "room": "Rayburn HOB 2141, Washington, D.C. 20515",
+      "description": "",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSJU",
+        "name": "House Committee on the Judiciary",
+        "office": "2138 RHOB",
+        "phone": "(202) 225-3951",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104391",
+      "hearing_type": "Hearing",
+      "hearing_id": "16373132ebdfdf5a4e023257f85bd437"
+    },
+    {
+      "house_event_id": 104389,
+      "chamber": "house",
+      "committee_id": "HSAG",
+      "congress": 114,
+      "occurs_at": "2016-02-02T15:00:00Z",
+      "room": "Longworth HOB 1300, Washington, D.C. 20515",
+      "description": "Opportunities and challenges in direct marketing - A view from the field",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSAG",
+        "name": "House Committee on Agriculture",
+        "office": "1301 LHOB",
+        "phone": "(202) 225-2171",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104389",
+      "hearing_type": "Hearing",
+      "hearing_id": "510bc22fbbcee5aa688a72fe81a52802"
+    },
+    {
+      "house_event_id": 104386,
+      "chamber": "house",
+      "committee_id": "HSVR",
+      "congress": 114,
+      "occurs_at": "2016-02-03T15:30:00Z",
+      "room": "Cannon HOB 334, Washington, D.C. 20515",
+      "description": "",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSVR",
+        "name": "House Committee on Veterans' Affairs",
+        "office": "335 CHOB",
+        "phone": "(202) 225-3527",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104386",
+      "hearing_type": "Hearing",
+      "hearing_id": "9cfd17551c0d1f7438895121e4fbb6e8"
+    },
+    {
+      "house_event_id": 104388,
+      "chamber": "house",
+      "committee_id": "HSIF",
+      "congress": 114,
+      "occurs_at": "2016-02-02T15:15:00Z",
+      "room": "Rayburn HOB 2322, Washington, D.C. 20515",
+      "description": "Status of the Public Safety Broadband Network",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSIF",
+        "name": "House Committee on Energy and Commerce",
+        "office": "2125 RHOB",
+        "phone": "(202) 225-2927",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104388",
+      "hearing_type": "Hearing",
+      "hearing_id": "1accdd0ee4cf7775f311ee228d73d074"
+    },
+    {
+      "house_event_id": 104387,
+      "chamber": "house",
+      "committee_id": "HSIF",
+      "congress": 114,
+      "occurs_at": "2016-02-02T15:00:00Z",
+      "room": "Rayburn HOB 2123, Washington, D.C. 20515",
+      "description": "A Legislative Hearing on Eight Energy Infrastructure Bills",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSIF",
+        "name": "House Committee on Energy and Commerce",
+        "office": "2125 RHOB",
+        "phone": "(202) 225-2927",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104387",
+      "hearing_type": "Hearing",
+      "hearing_id": "15dc8878650f809cc9518c2b2e4d6dcc"
+    },
+    {
+      "house_event_id": 104384,
+      "chamber": "house",
+      "committee_id": "HLIG",
+      "congress": 114,
+      "occurs_at": "2016-02-01T22:00:00Z",
+      "room": "CAPITOL HVC-304",
+      "description": "Consideration of Budget Views & Estimates (Closed)",
+      "dc": false,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HLIG",
+        "name": "House Permanent Select Committee on Intelligence",
+        "office": "HVC304 CAPITOL",
+        "phone": "(202) 225-4121",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104384",
+      "hearing_type": "Meeting",
+      "hearing_id": "ff95fc4f5e2fc78ac9330e4c595a4985"
+    },
+    {
+      "house_event_id": 104385,
+      "chamber": "house",
+      "committee_id": "HLIG",
+      "congress": 114,
+      "occurs_at": "2016-02-04T14:00:00Z",
+      "room": "CAPITOL HVC-304",
+      "description": "Consideration of a Committee Report (Open - Possibility of Closing)",
+      "dc": false,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HLIG",
+        "name": "House Permanent Select Committee on Intelligence",
+        "office": "HVC304 CAPITOL",
+        "phone": "(202) 225-4121",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104385",
+      "hearing_type": "Meeting",
+      "hearing_id": "302e8a2ea782de9699c06280e709cd15"
+    },
+    {
+      "house_event_id": 104383,
+      "chamber": "house",
+      "committee_id": "HSVR",
+      "congress": 114,
+      "occurs_at": "2016-02-10T15:00:00Z",
+      "room": "Cannon HOB 334, Washington, D.C. 20515",
+      "description": "",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSVR",
+        "name": "House Committee on Veterans' Affairs",
+        "office": "335 CHOB",
+        "phone": "(202) 225-3527",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104383",
+      "hearing_type": "Hearing",
+      "hearing_id": "78d549df6c017102f64ffe5b0574da03"
+    },
+    {
+      "house_event_id": 104382,
+      "chamber": "house",
+      "committee_id": "HSSM",
+      "congress": 114,
+      "occurs_at": "2016-01-28T03:00:00Z",
+      "room": "Rayburn HOB 2360, Washington, D.C. 20515",
+      "description": "Views and Estimates on the President's FY 2017 Budget for the Small Business Administration",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSSM",
+        "name": "House Committee on Small Business",
+        "office": "2361 RHOB",
+        "phone": "(202) 225-5821",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104382",
+      "hearing_type": "Markup",
+      "hearing_id": "ede87fb7d15d3870eec3d35d3ad086c2"
+    },
+    {
+      "committee_id": "SSSB",
+      "congress": 114,
+      "room": "SR-428A",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://sbc.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSSB",
+        "name": "Senate Committee on Small Business and Entrepreneurship"
+      },
+      "hearing_id": "6a9de643ac32b2a2c5ad1a8bfd4568cd",
+      "occurs_at": "2016-01-28T15:00:00Z",
+      "description": "Hearings to examine reauthorization of the Small Business Innovation Research/Small Business Technology Transfer programs, focusing on the importance of small business innovation to national and economic security."
+    },
+    {
+      "committee_id": "SSGA",
+      "congress": 114,
+      "room": "SD-342",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://hsgac.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSGA",
+        "name": "Senate Committee on Homeland Security and Governmental Affairs"
+      },
+      "hearing_id": "18988fe174485c25ca6e02b5a450107f",
+      "occurs_at": "2016-01-28T15:00:00Z",
+      "description": "Hearings to examine the Department of Health and Human Services's placement of migrant children, focusing on vulnerabilities to human trafficking."
+    },
+    {
+      "house_event_id": 104378,
+      "chamber": "house",
+      "committee_id": "HSFA",
+      "congress": 114,
+      "occurs_at": "2016-01-27T14:00:00Z",
+      "room": "Rayburn HOB 2172, Washington, D.C. 20515",
+      "description": "After San Bernardino: The Future of ISIS-Inspired Attacks",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSFA",
+        "name": "House Committee on Foreign Affairs",
+        "office": "2170 RHOB",
+        "phone": "(202) 225-5021",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104378",
+      "hearing_type": "Hearing",
+      "hearing_id": "243016ce12ddd27aa7364cc49d2bff1a",
+      "witnesses": [
+        {
+          "first_name": "Jack",
+          "last_name": "Keane,",
+          "middle_name": null,
+          "honorific": "General",
+          "organization": "Institute for the Study of War",
+          "position": "Chairman of the Board",
+          "witness_type": "Non-Governmental",
+          "documents": [ ]
+        },
+        {
+          "first_name": "Alberto",
+          "last_name": "Fernandez",
+          "middle_name": "M.",
+          "honorific": "The Honorable",
+          "organization": "Middle East Media Research Institute",
+          "position": "Vice President",
+          "witness_type": "Non-Governmental",
+          "documents": [ ]
+        }
+      ]
+    },
+    {
+      "committee_id": "SSJU",
+      "congress": 114,
+      "room": "SD-226",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://judiciary.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSJU",
+        "name": "Senate Committee on the Judiciary"
+      },
+      "hearing_id": "7c0e0f5773a670fbc7c7fedff30204cb",
+      "occurs_at": "2016-02-02T19:00:00Z",
+      "description": "Hearings to examine occupational licensing and the state action doctrine."
+    },
+    {
+      "committee_id": "SSJU",
+      "congress": 114,
+      "room": "SD-226",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://judiciary.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSJU",
+        "name": "Senate Committee on the Judiciary"
+      },
+      "hearing_id": "8677c04c9de938cc7a17ea3973274dc6",
+      "occurs_at": "2016-01-27T19:00:00Z",
+      "description": "Hearings to examine the nominations of Clare E. Connors, to be United States District Judge for the District of Hawaii, and Elizabeth J. Drake, of Maryland, Jennifer Choe Groves, of Virginia, and Gary Stephen Katzmann, of Massachusetts, each to be a Judge of the United States Court of International Trade."
+    },
+    {
+      "committee_id": "SSJU",
+      "congress": 114,
+      "room": "SD-226",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://judiciary.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSJU",
+        "name": "Senate Committee on the Judiciary"
+      },
+      "hearing_id": "e97a1859f4c801f128124e3c55b63b9a",
+      "occurs_at": "2016-01-27T15:00:00Z",
+      "description": "Hearings to examine attacking America's epidemic of heroin and prescription drug abuse."
+    },
+    {
+      "committee_id": "SSAS",
+      "congress": 114,
+      "description": "Hearings to examine military space launch and the use of Russian-made rocket engines; with the possibility of a closed  session in SVC-217 following the open session.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://armed-services.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSAS",
+        "name": "Senate Committee on Armed Services"
+      },
+      "hearing_id": "bc1912ab865d978000c030187415fdb8",
+      "occurs_at": "2016-01-27T14:30:00Z",
+      "room": "SH-216"
+    },
+    {
+      "committee_id": "SSHR",
+      "congress": 114,
+      "description": "Hearings to examine generic drug user fee amendments, focusing on accelerating patient access to generic drugs.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://help.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSHR",
+        "name": "Senate Committee on Health, Education, Labor, and Pensions"
+      },
+      "hearing_id": "49dd782c37d26aeaa40b46a0ad5dbc8c",
+      "occurs_at": "2016-01-28T15:00:00Z",
+      "room": "SD-430"
+    },
+    {
+      "committee_id": "SSGA",
+      "congress": 114,
+      "description": "Hearings to examine Canada's fast-track refugee plan, focusing on implications for United States national security.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://hsgac.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSGA",
+        "name": "Senate Committee on Homeland Security and Governmental Affairs"
+      },
+      "hearing_id": "cfc4ba70125dee346021462c80d5be59",
+      "occurs_at": "2016-01-27T15:00:00Z",
+      "room": "SD-342"
+    },
+    {
+      "committee_id": "SSFR",
+      "congress": 114,
+      "description": "Hearings to examine United States policy in Central Africa, focusing on the imperative of good governance.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://foreign.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSFR",
+        "name": "Senate Committee on Foreign Relations"
+      },
+      "hearing_id": "f8b3992f8839e307b7c8a547a0d9f9b3",
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "room": "SD-419"
+    },
+    {
+      "committee_id": "SSEV",
+      "congress": 114,
+      "description": "Hearings to examine economic opportunities from land cleanup programs, including S.2446, to amend subtitle D of the Solid Waste Disposal Act to encourage recovery and beneficial use of coal combustion residuals and establish requirements for the proper management and disposal of coal combustion residuals that are protective of human health and the environment, S.1479, to amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to modify provisions relating to grants, and an original bill entitled, \"Good Samaritan Cleanup of Orphan Mines Act of 2016\".",
+      "dc": true,
+      "bill_ids": [ "s2446-114", "s1479-114" ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://epw.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSEV",
+        "name": "Senate Committee on Environment and Public Works"
+      },
+      "hearing_id": "b0da323627e1d38250976250011bba59",
+      "occurs_at": "2016-01-27T15:00:00Z",
+      "room": "SD-406"
+    },
+    {
+      "bill_ids": [ ],
+      "chamber": "house",
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSGO",
+        "name": "House Committee on Oversight and Government Reform",
+        "office": "2157 RHOB",
+        "phone": "(202) 225-5074",
+        "subcommittee": false
+      },
+      "committee_id": "HSGO",
+      "congress": 114,
+      "dc": true,
+      "description": "",
+      "hearing_id": "f29e0b74848f7755e6706cd2b06f2038",
+      "hearing_type": "Hearing",
+      "house_event_id": 104374,
+      "occurs_at": "2016-02-04T14:00:00Z",
+      "room": "Rayburn HOB 2154, Washington, D.C. 20515",
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104374"
+    },
+    {
+      "house_event_id": 104375,
+      "chamber": "house",
+      "committee_id": "HSGO",
+      "congress": 114,
+      "occurs_at": "2016-01-06T15:00:00Z",
+      "room": "Rayburn HOB 2154, Washington, D.C. 20515",
+      "description": "\"Army Fee Assistance Program: Part II\"",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSGO",
+        "name": "House Committee on Oversight and Government Reform",
+        "office": "2157 RHOB",
+        "phone": "(202) 225-5074",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104375",
+      "hearing_type": "Hearing",
+      "hearing_id": "f6f3107e58a83a24d4e6a46b6d856f3a",
+      "witnesses": [
+        {
+          "first_name": "Carol",
+          "last_name": "Ochoa",
+          "middle_name": "Fortine",
+          "honorific": "The Honorable",
+          "organization": "U.S. General Services Administration",
+          "position": "Inspector General",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Ochoa Statement",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Wstate-OchoaC-20160106.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Wstate-OchoaC-20160106.pdf"
+            },
+            {
+              "description": "Ochoa Biography",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Bio-OchoaC-20160106.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Bio-OchoaC-20160106.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Gerard",
+          "last_name": "Badorrek",
+          "middle_name": null,
+          "honorific": "Mr.",
+          "organization": "U.S. General Services Administration",
+          "position": "Chief Financial Officer",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Badorrek Statement",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Wstate-BadorrekG-20160106.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Wstate-BadorrekG-20160106.pdf"
+            },
+            {
+              "description": "Badorrek Biography",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Bio-BadorrekG-20160106.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Bio-BadorrekG-20160106.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Stephanie",
+          "last_name": "Hoehne",
+          "middle_name": "L.",
+          "honorific": "Ms.",
+          "organization": "United States Army",
+          "position": "Director, Family and Morale, Welfare & Recreation, G9, Installation Management Command",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Hoehne Statement",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Wstate-HoehneS-20160106.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Wstate-HoehneS-20160106.pdf"
+            },
+            {
+              "description": "Hoehne Biography",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Bio-HoehneS-20160106.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Bio-HoehneS-20160106.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Lynette",
+          "last_name": "Fraga, Ph.D.",
+          "middle_name": "M.",
+          "honorific": "Dr.",
+          "organization": "Child Care Aware of America",
+          "position": "Executive Director",
+          "witness_type": "Non-Governmental",
+          "documents": [
+            {
+              "description": "FragaTruth inTestimony",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness truth statement",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-TTF-FragaPhDL-20160106.PDF",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-TTF-FragaPhDL-20160106.PDF"
+            },
+            {
+              "description": "Fraga Statement",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Wstate-FragaPhDL-20160106.PDF",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Wstate-FragaPhDL-20160106.PDF"
+            },
+            {
+              "description": "Fraga Biography",
+              "published_at": "2016-01-20T20:28:31Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO24/20160106/104375/HHRG-114-GO24-Bio-FragaPhDL-20160106.PDF",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104375/HHRG-114-GO24-Bio-FragaPhDL-20160106.PDF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "house_event_id": 104376,
+      "chamber": "house",
+      "committee_id": "HSGO",
+      "congress": 114,
+      "occurs_at": "2016-01-07T15:00:00Z",
+      "room": "Rayburn HOB 2154, Washington, D.C. 20515",
+      "description": "",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSGO",
+        "name": "House Committee on Oversight and Government Reform",
+        "office": "2157 RHOB",
+        "phone": "(202) 225-5074",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104376",
+      "hearing_type": "Hearing",
+      "hearing_id": "806476eb0ab5b7f212d8ef63921126b5",
+      "witnesses": [
+        {
+          "first_name": "Julia",
+          "last_name": "Frifield",
+          "middle_name": null,
+          "honorific": "The Honorable",
+          "organization": "U.S. Department of State",
+          "position": "Assistant Secretary, Bureau of Legislative Affairs",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Frifield Statement",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Wstate-FrifieldJ-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Wstate-FrifieldJ-20160107.pdf"
+            },
+            {
+              "description": "Frifield Biography",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Bio-FrifieldJ-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Bio-FrifieldJ-20160107.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Peter",
+          "last_name": "Kadzik",
+          "middle_name": "J.",
+          "honorific": "The Honorable",
+          "organization": "U.S. Department of Justice",
+          "position": "Assistant Attorney General for Legislative Affairs",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Kadzik Statement",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Wstate-KadzikP-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Wstate-KadzikP-20160107.pdf"
+            },
+            {
+              "description": "Kadzik Biography",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Bio-KadzikP-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Bio-KadzikP-20160107.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Tia",
+          "last_name": "Johnson",
+          "middle_name": null,
+          "honorific": "The Honorable",
+          "organization": "U.S. Department of Homeland Security",
+          "position": "Assistant Secretary, Office of Legislative Affairs",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Johnson Statement",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Wstate-JohnsonT-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Wstate-JohnsonT-20160107.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Tamara",
+          "last_name": "Fucile",
+          "middle_name": null,
+          "honorific": "Ms.",
+          "organization": "Office of Management and Budget",
+          "position": "Associate Director for Legislative Affairs",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Fucile Statement",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Wstate-FucileT-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Wstate-FucileT-20160107.pdf"
+            },
+            {
+              "description": "Fucile Biography",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Bio-FucileT-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Bio-FucileT-20160107.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Jason",
+          "last_name": "Levine",
+          "middle_name": null,
+          "honorific": "Mr.",
+          "organization": "U.S. Office of Personnel Management",
+          "position": "Director, Office of Congressional, Legislative, and Intergovernmental Affairs",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Levine Statement",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Wstate-LevineJ-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Wstate-LevineJ-20160107.pdf"
+            },
+            {
+              "description": "Levine Biography",
+              "published_at": "2016-01-20T20:47:51Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO00/20160107/104376/HHRG-114-GO00-Bio-LevineJ-20160107.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104376/HHRG-114-GO00-Bio-LevineJ-20160107.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "house_event_id": 104373,
+      "chamber": "house",
+      "committee_id": "HSHM",
+      "congress": 114,
+      "occurs_at": "2016-01-12T19:00:00Z",
+      "room": "Rayburn HOB 2154, Washington, D.C. 20515",
+      "description":"",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSHM",
+        "name": "House Committee on Homeland Security",
+        "office": "176 FHOB",
+        "phone": "(202) 226-8417",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104373",
+      "hearing_type": "Hearing",
+      "hearing_id": "d23a40003554a9d2a022222140c846e9",
+      "witnesses": [
+        {
+          "first_name": "Vann",
+          "last_name": "Van Diepen",
+          "middle_name": "H.",
+          "honorific": "Mr.",
+          "organization": "U. S. Department of State",
+          "position": "Principal Deputy Assistant Secretary, Bureau of International Security and Nonproliferation",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Van Diepen Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-VanDiepenV-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-VanDiepenV-20160112.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Ann",
+          "last_name": "Ganzer",
+          "middle_name": "K.",
+          "honorific": "Ms.",
+          "organization": "U.S. Department of State",
+          "position": "Director of Conventional Arms Threat Reduction, Bureau of International Security and Nonproliferation",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        },
+        {
+          "first_name": "Kevin",
+          "last_name": "Wolf",
+          "middle_name": "J.",
+          "honorific": "The Honorable",
+          "organization": "U.S. Department of Commerce",
+          "position": "Assistant Secretary for Export Administration",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Wolf Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-WolfK-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-WolfK-20160112.pdf"
+            },
+            {
+              "description": "Wolf Biography",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Bio-WolfK-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Bio-WolfK-20160112.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Phyllis",
+          "last_name": "Schneck, Ph.D.",
+          "middle_name": null,
+          "honorific": "Dr.",
+          "organization": "U.S. Department of Homeland Security",
+          "position": "Deputy Under Secretary for Cybersecurity and Communications,National Protection and Programs Directorate",
+          "witness_type": "Government - Federal",
+          "documents": [
+            {
+              "description": "Schneck Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-SchneckPhDP-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-SchneckPhDP-20160112.pdf"
+            },
+            {
+              "description": "Schneck Biography",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Bio-SchneckPhDP-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Bio-SchneckPhDP-20160112.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Cheri",
+          "last_name": "McGuire",
+          "middle_name": "Flynn",
+          "honorific": "Ms.",
+          "organization": "Symantec",
+          "position": "Vice President, Global Government Affairs and Cybersecurity Policy",
+          "witness_type": "Non-Governmental",
+          "documents": [
+            {
+              "description": "McGuire Truth in Testimony",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness truth statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-TTF-McGuireC-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-TTF-McGuireC-20160112.pdf"
+            },
+            {
+              "description": "McGuire Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-McGuireC-20160112.PDF",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-McGuireC-20160112.PDF"
+            },
+            {
+              "description": "McGuire Biography",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Bio-McGuireC-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Bio-McGuireC-20160112.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Iain",
+          "last_name": "Mulholland",
+          "middle_name": null,
+          "honorific": "Mr.",
+          "organization": "VMware, Inc.",
+          "position": "Vice President, Engineering Trust and Assurance",
+          "witness_type": "Non-Governmental",
+          "documents": [
+            {
+              "description": "Mulholland Truth in Testimony",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness truth statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-TTF-MulhollandI-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-TTF-MulhollandI-20160112.pdf"
+            },
+            {
+              "description": "Mulholland Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-MulhollandI-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-MulhollandI-20160112.pdf"
+            },
+            {
+              "description": "Mulholland Biography",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Bio-MulhollandI-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Bio-MulhollandI-20160112.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Cristin",
+          "last_name": "Goodwin",
+          "middle_name": "Flynn",
+          "honorific": "Ms.",
+          "organization": "Microsoft Corporation",
+          "position": "Assistant General Counsel, Cybersecurity",
+          "witness_type": "Non-Governmental",
+          "documents": [
+            {
+              "description": "Goodwin Truth in Testimony",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness truth statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-TTF-GoodwinC-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-TTF-GoodwinC-20160112.pdf"
+            },
+            {
+              "description": "Goodwin Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-GoodwinC-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-GoodwinC-20160112.pdf"
+            },
+            {
+              "description": "Goodwin Biography",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Bio-GoodwinC-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Bio-GoodwinC-20160112.pdf"
+            }
+          ]
+        },
+        {
+          "first_name": "Dean",
+          "last_name": "Garfield",
+          "middle_name": "C.",
+          "honorific": "Mr.",
+          "organization": "Information Technology Industry Council",
+          "position": "President and CEO",
+          "witness_type": "Non-Governmental",
+          "documents": [
+            {
+              "description": "Garfield Truth In Testimony",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness truth statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-TTF-GarfieldD-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-TTF-GarfieldD-20160112.pdf"
+            },
+            {
+              "description": "Garfield Statement",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness statement",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Wstate-GarfieldD-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Wstate-GarfieldD-20160112.pdf"
+            },
+            {
+              "description": "Garfield Biography",
+              "published_at": "2016-01-20T20:02:47Z",
+              "type": "Witness biography",
+              "url": "http://docs.house.gov/meetings/GO/GO25/20160112/104373/HHRG-114-GO25-Bio-GarfieldD-20160112.pdf",
+              "permalink": "http://unitedstates.sunlightfoundation.com/congress/committee/meetings/house/1043/104373/HHRG-114-GO25-Bio-GarfieldD-20160112.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "house_event_id": 104370,
+      "chamber": "house",
+      "committee_id": "HSJU",
+      "congress": 114,
+      "occurs_at": "2016-01-27T14:00:00Z",
+      "room": "Rayburn HOB 2141, Washington, D.C. 20515",
+      "description": "Triple Threat to Workers and Households: Impacts of Federal Regulations on Jobs, Wages and Startups",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSJU",
+        "name": "House Committee on the Judiciary",
+        "office": "2138 RHOB",
+        "phone": "(202) 225-3951",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104370",
+      "hearing_type": "Hearing",
+      "hearing_id": "a94d04a4686c05ab8cf84701cf94a894"
+    },
+    {
+      "house_event_id": 104368,
+      "chamber": "house",
+      "committee_id": "HSFA",
+      "congress": 114,
+      "occurs_at": "2016-01-26T20:00:00Z",
+      "room": "Rayburn HOB 2200, Washington, D.C. 20515",
+      "description": "Turkey: Political Trends in 2016",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSFA",
+        "name": "House Committee on Foreign Affairs",
+        "office": "2170 RHOB",
+        "phone": "(202) 225-5021",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104368",
+      "hearing_type": "Hearing",
+      "hearing_id": "0496c3742ecdd81d8fa84e4878b76bbd",
+      "witnesses": [
+        {
+          "first_name": "Nate",
+          "last_name": "Schenkkan",
+          "middle_name": null,
+          "honorific": "Mr.",
+          "organization": "Freedom House",
+          "position": "Project Director, Nations in Transit",
+          "witness_type": "Non-Governmental",
+          "documents": [ ]
+        },
+        {
+          "first_name": "Gonul",
+          "last_name": "Tol,",
+          "middle_name": null,
+          "honorific": null,
+          "organization": "Middle East Institute",
+          "position": "Director, Center for Turkish Studies",
+          "witness_type": "Non-Governmental",
+          "documents": [ ]
+        }
+      ]
+    },
+    {
+      "bill_ids": [ ],
+      "chamber": "house",
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSFA",
+        "name": "House Committee on Foreign Affairs",
+        "office": "2170 RHOB",
+        "phone": "(202) 225-5021",
+        "subcommittee": false
+      },
+      "committee_id": "HSFA",
+      "congress": 114,
+      "dc": true,
+      "description": "Jordan: A Key U.S. Partner",
+      "hearing_id": "1d4f61e50e0fab5b9f19fdf75c395b91",
+      "hearing_type": "Hearing",
+      "house_event_id": 104369,
+      "occurs_at": "2016-01-26T20:30:00Z",
+      "room": "Rayburn HOB 2172, Washington, D.C. 20515",
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104369",
+      "witnesses": [
+        {
+          "first_name": "Gerald",
+          "last_name": "Feierstein",
+          "middle_name": "M.",
+          "honorific": "The Honorable",
+          "organization": "U.S. Department of State",
+          "position": "Principal Deputy Assistant Secretary, Bureau of Near Eastern Affairs",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        },
+        {
+          "first_name": "Mona",
+          "last_name": "Yacoubian",
+          "middle_name": null,
+          "honorific": "Ms.",
+          "organization": "U.S. Agency for International Development",
+          "position": "Deputy Assistant Administrator, Bureau for the Middle East",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        },
+        {
+          "first_name": "Beth",
+          "last_name": "Tritter",
+          "middle_name": null,
+          "honorific": "Ms.",
+          "organization": "Millennium Challenge Corporation",
+          "position": "Vice President of Policy and Evaluation Department",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        }
+      ]
+    },
+    {
+      "house_event_id": 104362,
+      "chamber": "house",
+      "committee_id": "HSBU",
+      "congress": 114,
+      "occurs_at": "2016-01-27T14:30:00Z",
+      "room": "Cannon HOB 210, Washington, D.C. 20515",
+      "description": "The Congressional Budget Office's Budget and Economic Outlook",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSBU",
+        "name": "House Committee on the Budget",
+        "office": "207 CHOB",
+        "phone": "(202) 226-7270",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104362",
+      "hearing_type": "Hearing",
+      "hearing_id": "0d847c3b9efeb0fe1ee7236641d249d2",
+      "witnesses": [
+        {
+          "first_name": "Keith",
+          "last_name": "Hall",
+          "middle_name": null,
+          "honorific": "Mr.",
+          "organization": "Congressional Budget Office",
+          "position": "Director",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        }
+      ]
+    },
+    {
+      "house_event_id": 104367,
+      "chamber": "house",
+      "committee_id": "HSAP",
+      "congress": 114,
+      "occurs_at": "2016-01-27T14:15:00Z",
+      "room": "CAPITOL H-140",
+      "description": "Assistance to Combat Wildlife Trafficking Oversight",
+      "dc": false,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSAP",
+        "name": "House Committee on Appropriations",
+        "office": "H305 CAPITOL",
+        "phone": "(202) 225-2771",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104367",
+      "hearing_type": "Hearing",
+      "hearing_id": "0b4f74aab6e42b86b239111011c04ec5",
+      "witnesses": [
+        {
+          "first_name": "William",
+          "last_name": "Brownfield",
+          "middle_name": "R.",
+          "honorific": "The Honorable",
+          "organization": "Bureau of International Narcotics Control and Law Enforcement Affairs, Department of State",
+          "position": "Assistant Secretary",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        },
+        {
+          "first_name": "Eric",
+          "last_name": "Postel",
+          "middle_name": "G.",
+          "honorific": "The Honorable",
+          "organization": "U.S. Agency for International Development",
+          "position": "Associate Administrator",
+          "witness_type": "Government - Federal",
+          "documents": [ ]
+        }
+      ]
+    },
+    {
+      "bill_ids": [ ],
+      "chamber": "house",
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSWM",
+        "name": "House Committee on Ways and Means",
+        "office": "1102 LHOB",
+        "phone": "(202) 225-3625",
+        "subcommittee": false
+      },
+      "committee_id": "HSWM",
+      "congress": 114,
+      "dc": true,
+      "description": "Brady Announces First Committee Hearing of 2016\nReaching America's Potential: Delivering Growth and Opportunity for All Americans",
+      "hearing_id": "d7e828d6cb2b4932cc8b1659cd68e661",
+      "hearing_type": "Hearing",
+      "house_event_id": 104364,
+      "occurs_at": "2016-02-02T15:00:00Z",
+      "room": "Longworth HOB 1100, Washington, D.C. 20515",
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104364"
+    },
+    {
+      "house_event_id": 104363,
+      "chamber": "house",
+      "committee_id": "HSIF",
+      "congress": 114,
+      "occurs_at": "2016-01-26T19:00:00Z",
+      "room": "Rayburn HOB 2123, Washington, D.C. 20515",
+      "description": "\"Industry Perspectives on the Consumer Product Safety Commission\"",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSIF",
+        "name": "House Committee on Energy and Commerce",
+        "office": "2125 RHOB",
+        "phone": "(202) 225-2927",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104363",
+      "hearing_type": "Hearing",
+      "hearing_id": "a1581efff154bdfea74c8b7e763e2597"
+    },
+    {
+      "bill_ids": [ ],
+      "chamber": "house",
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSIF",
+        "name": "House Committee on Energy and Commerce",
+        "office": "2125 RHOB",
+        "phone": "(202) 225-2927",
+        "subcommittee": false
+      },
+      "committee_id": "HSIF",
+      "congress": 114,
+      "dc": true,
+      "description": "Examining Medicaid and CHIP's Federal Medical Assistance Percentage",
+      "hearing_id": "8c2fb2268e29daa95082472a8c638641",
+      "hearing_type": "Hearing",
+      "house_event_id": 104365,
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "room": "Rayburn HOB 2322, Washington, D.C. 20515",
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104365"
+    },
+    {
+      "bill_ids": [ ],
+      "chamber": "house",
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSIF",
+        "name": "House Committee on Energy and Commerce",
+        "office": "2125 RHOB",
+        "phone": "(202) 225-2927",
+        "subcommittee": false
+      },
+      "committee_id": "HSIF",
+      "congress": 114,
+      "dc": true,
+      "description": "H.R. 3797, the Satisfying Energy Needs and Saving the Environment Act (SENSE) Act and H.R. ______, the Blocking Regulatory Interference from Closing Kilns (BRICK) Act",
+      "hearing_id": "3d1571086992003196a8d59ca183e41f",
+      "hearing_type": "Hearing",
+      "house_event_id": 104366,
+      "occurs_at": "2016-01-26T15:15:00Z",
+      "room": "Rayburn HOB 2123, Washington, D.C. 20515",
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104366"
+    },
+    {
+      "committee_id": "SSBU",
+      "congress": 114,
+      "description": "Hearings to examine the Congressional Budget Office's budget and economic outlook, focusing on fiscal years 2016-2026.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://budget.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSBU",
+        "name": "Senate Committee on the Budget"
+      },
+      "hearing_id": "a7dddcb764a956857ba95425cd3ab1f4",
+      "occurs_at": "2016-01-26T15:30:00Z",
+      "room": "SD-608"
+    },
+    {
+      "committee_id": "SSFI",
+      "congress": 114,
+      "description": "Hearings to examine helping Americans prepare for retirement, focusing on increasing access, participation and coverage in retirement savings plans.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://finance.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSFI",
+        "name": "Senate Committee on Finance"
+      },
+      "hearing_id": "6e6fe73b50f2146f596205eb2c89b8cc",
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "room": "SD-215"
+    },
+    {
+      "committee_id": "SSFR",
+      "congress": 114,
+      "description": "To receive a closed briefing on the way forward in Syria and Iraq.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://foreign.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSFR",
+        "name": "Senate Committee on Foreign Relations"
+      },
+      "hearing_id": "4c311daf0730c01e88c9e4492d334f3c",
+      "occurs_at": "2016-01-25T22:00:00Z",
+      "room": "SVC-217"
+    },
+    {
+      "committee_id": "SSGA",
+      "congress": 114,
+      "description": "Business meeting to consider the nomination of Michael Joseph Missal, of Maryland, to be Inspector General, Department of Veterans Affairs.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://hsgac.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSGA",
+        "name": "Senate Committee on Homeland Security and Governmental Affairs"
+      },
+      "hearing_id": "07b260f9a95bcfde892f9050767152d2",
+      "occurs_at": "2016-01-20T19:30:00Z",
+      "room": "S-216"
+    },
+    {
+      "house_event_id": 104359,
+      "chamber": "house",
+      "committee_id": "HSSM",
+      "congress": 114,
+      "occurs_at": "2016-01-26T21:00:00Z",
+      "room": "Rayburn HOB 2360, Washington, D.C. 20515",
+      "description": "SBA Management Review: Office of Government Contracts and Business Development",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSSM",
+        "name": "House Committee on Small Business",
+        "office": "2361 RHOB",
+        "phone": "(202) 225-5821",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104359",
+      "hearing_type": "Hearing",
+      "hearing_id": "f3806e5ff186dc9a67518a780ebff675"
+    },
+    {
+      "house_event_id": 104361,
+      "chamber": "house",
+      "committee_id": "HSED",
+      "congress": 114,
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "room": "CAPITOL HVC-210",
+      "description": "Expanding Educational Opportunity Through School Choice",
+      "dc": false,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSED",
+        "name": "House Committee on Education and the Workforce",
+        "office": "2176 RHOB",
+        "phone": "(202) 225-4527",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104361",
+      "hearing_type": "Hearing",
+      "hearing_id": "d9d97eabae85899d91e1a5587573188d"
+    },
+    {
+      "committee_id": "SSAS",
+      "congress": 114,
+      "room": "SR-232A",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://armed-services.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSAS",
+        "name": "Senate Committee on Armed Services"
+      },
+      "hearing_id": "c7b8573846acf1f9c749d0f69f35ccb5",
+      "occurs_at": "2016-02-09T19:30:00Z",
+      "description": "Hearings to examine Department of Defense nuclear acquisition programs and the nuclear doctrine in review of the defense authorization request for fiscal year 2017 and the Future Years Defense Program."
+    },
+    {
+      "committee_id": "SSAS",
+      "congress": 114,
+      "room": "SR-222",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://armed-services.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSAS",
+        "name": "Senate Committee on Armed Services"
+      },
+      "hearing_id": "7682f098f77014357f9678a4aeda0786",
+      "occurs_at": "2016-01-26T19:30:00Z",
+      "description": "Hearings to examine the future nuclear posture of the United States."
+    },
+    {
+      "committee_id": "SSJU",
+      "congress": 114,
+      "room": "SD-226",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://judiciary.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSJU",
+        "name": "Senate Committee on the Judiciary"
+      },
+      "hearing_id": "4172352a74451588fd94596beeed1bf9",
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "description": "Hearings to examine mental health and the justice system."
+    },
+    {
+      "committee_id": "SSGA",
+      "congress": 114,
+      "room": "SD-342",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://hsgac.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSGA",
+        "name": "Senate Committee on Homeland Security and Governmental Affairs"
+      },
+      "hearing_id": "8b5aa31d2316d1ba6998c4cee0c66af9",
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "description": "Hearings to examine the nomination of Beth F. Cobert, of California, to be Director of the Office of Personnel Management for a term of four years."
+    },
+    {
+      "committee_id": "SSFR",
+      "congress": 114,
+      "room": "SD-419",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://foreign.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSFR",
+        "name": "Senate Committee on Foreign Relations"
+      },
+      "hearing_id": "f26ba28006bb1c8a4e9ce95e21a35264",
+      "occurs_at": "2016-01-21T15:45:00Z",
+      "description": "Hearings to examine political and economic developments in Latin America and opportunities for United States engagement."
+    },
+    {
+      "house_event_id": 104356,
+      "chamber": "house",
+      "committee_id": "HSSM",
+      "congress": 114,
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "room": "Rayburn HOB 2360, Washington, D.C. 20515",
+      "description": "Oversight of the Office of Advocacy and the Office of the National Ombudsman at the SBA",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSSM",
+        "name": "House Committee on Small Business",
+        "office": "2361 RHOB",
+        "phone": "(202) 225-5821",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104356",
+      "hearing_type": "Hearing",
+      "hearing_id": "d26042c6bb74709d298641746330dfb1"
+    },
+    {
+      "house_event_id": 104358,
+      "chamber": "house",
+      "committee_id": "HSII",
+      "congress": 114,
+      "occurs_at": "2016-01-26T16:00:00Z",
+      "room": "Longworth HOB 1334, Washington, D.C. 20515",
+      "description": "",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSII",
+        "name": "House Committee on Natural Resources",
+        "office": "1324 LHOB",
+        "phone": "(202) 225-2761",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104358",
+      "hearing_type": "Hearing",
+      "hearing_id": "ec8bf8a39995738e0c993bbe79279d87"
+    },
+    {
+      "house_event_id": 104357,
+      "chamber": "house",
+      "committee_id": "HSAG",
+      "congress": 114,
+      "occurs_at": "2016-01-26T15:00:00Z",
+      "room": "Longworth HOB 1300, Washington, D.C. 20515",
+      "description": "To consider the impacts of the Environmental Protection Agency's actions on the rural economy",
+      "dc": true,
+      "committee": {
+        "chamber": "house",
+        "committee_id": "HSAG",
+        "name": "House Committee on Agriculture",
+        "office": "1301 LHOB",
+        "phone": "(202) 225-2171",
+        "subcommittee": false
+      },
+      "bill_ids": [ ],
+      "url": "http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=104357",
+      "hearing_type": "Hearing",
+      "hearing_id": "4e2eeb8322f6e6fafdc03b7a451e62f5"
+    },
+    {
+      "committee_id": "SSJU",
+      "congress": 114,
+      "description": "Business meeting to consider S.247, to amend section 349 of the Immigration and Nationality Act to deem specified activities in support of terrorism as renunciation of United States nationality, H.R.1428, to extend Privacy Act remedies to citizens of certified states, S.483, to improve enforcement efforts related to prescription drug diversion and abuse, S.1890, to amend chapter 90 of title 18, United States Code, to provide Federal jurisdiction for the theft of trade secrets, S.2040, to deter terrorism, provide justice for victims, and the nominations of Mary S. McElroy, to be United States District Judge for the District of Rhode Island, and Susan Paradise Baxter, and Marilyn Jean Horan, both to be a United States District Judge for the Western District of Pennsylvania.",
+      "dc": true,
+      "bill_ids": [ "s247-114", "hr1428-114", "s483-114", "s1890-114", "s2040-114" ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://judiciary.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSJU",
+        "name": "Senate Committee on the Judiciary"
+      },
+      "hearing_id": "d8dc9b5322f8c5ec2eba90cd17668b94",
+      "occurs_at": "2016-01-21T15:45:00Z",
+      "room": "S-216"
+    },
+    {
+      "committee_id": "SSAS",
+      "congress": 114,
+      "description": "Hearings to examine the nomination of Eric K. Fanning, of the District of Columbia, to be Secretary of the Army, Department of Defense.",
+      "dc": true,
+      "bill_ids": [ ],
+      "chamber": "senate",
+      "committee": {
+        "url": "http://armed-services.senate.gov/",
+        "chamber": "senate",
+        "committee_id": "SSAS",
+        "name": "Senate Committee on Armed Services"
+      },
+      "hearing_id": "066de42e62e755390d04c185ec8e0664",
+      "occurs_at": "2016-01-21T14:30:00Z",
+      "room": "SD-G50"
+    }
+  ],
+  "count": 7353,
+  "page": {
+    "count": 50,
+    "per_page": 50,
+    "page": 1
+  }
+}

@@ -1,0 +1,51 @@
+//// ---DEFAULT FIELDS------ /committees?member_ids=L000551 ------------------------------------------------
+{
+  "results": [
+    {
+      "chamber": "house",
+      "committee_id": "HSAP18",
+      "name": "Military Construction, Veterans Affairs, and Related Agencies",
+      "parent_committee_id": "HSAP",
+      "phone": "(202) 225-3047",
+      "subcommittee": true
+    },
+    {
+      "chamber": "house",
+      "committee_id": "HSBU",
+      "name": "House Committee on the Budget",
+      "office": "207 CHOB",
+      "phone": "(202) 226-7270",
+      "subcommittee": false
+    },
+    {
+      "chamber": "house",
+      "committee_id": "HSAP",
+      "name": "House Committee on Appropriations",
+      "office": "H305 CAPITOL",
+      "phone": "(202) 225-2771",
+      "subcommittee": false
+    },
+    {
+      "chamber": "house",
+      "committee_id": "HSAP07",
+      "name": "Labor, Health and Human Services, Education, and Related Agencies",
+      "parent_committee_id": "HSAP",
+      "phone": "(202) 225-3508",
+      "subcommittee": true
+    },
+    {
+      "chamber": "house",
+      "committee_id": "HSAP04",
+      "name": "State, Foreign Operations, and Related Programs",
+      "parent_committee_id": "HSAP",
+      "phone": "(202) 225-2041",
+      "subcommittee": true
+    }
+  ],
+  "count": 5,
+  "page": {
+    "count": 5,
+    "per_page": 20,
+    "page": 1
+  }
+}

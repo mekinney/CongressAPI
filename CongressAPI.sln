@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongressAPI", "CongressAPI\CongressAPI.csproj", "{476413A6-8026-49E7-AC0B-3BB86C18D8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongressAPI.Tests", "CongressAPI.Tests\CongressAPI.Tests.csproj", "{9288F2D5-234A-42D7-BF04-549A857C4595}"
+	ProjectSection(ProjectDependencies) = postProject
+		{476413A6-8026-49E7-AC0B-3BB86C18D8C8} = {476413A6-8026-49E7-AC0B-3BB86C18D8C8}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9EE9EA99-76B6-4F2F-8A1E-F951857A81C9}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample JSON", "Sample JSON", "{2B6CBFCA-0C0A-4A3D-AC0E-853F2331DB60}"
+	ProjectSection(SolutionItems) = preProject
+		amendmentsallfields.json = amendmentsallfields.json
+		amendmentscommittesponsored.json = amendmentscommittesponsored.json
+		BillsAll.json = BillsAll.json
+		BillsAll2.json = BillsAll2.json
+		billsdefault.json = billsdefault.json
+		committeeallsubcom.json = committeeallsubcom.json
+		committeemembersl.json = committeemembersl.json
+		committeesallnotsub.json = committeesallnotsub.json
+		committeesdefault.json = committeesdefault.json
+		congressional_document.json = congressional_document.json
+		DateTime.json = DateTime.json
+		docsearch.json = docsearch.json
+		documents_details.json = documents_details.json
+		floor_updates.json = floor_updates.json
+		fullcommittee.json = fullcommittee.json
+		hearings.json = hearings.json
+		hearings2.json = hearings2.json
+		CongressAPI\Legislators.json = CongressAPI\Legislators.json
+		Legislators2.json = Legislators2.json
+		LegislatorTest.json = LegislatorTest.json
+		LocationZip.json = LocationZip.json
+		nominations.json = nominations.json
+		votes2.json = votes2.json
+		votes3.json = votes3.json
+		votesallfields2.json = votesallfields2.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476413A6-8026-49E7-AC0B-3BB86C18D8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476413A6-8026-49E7-AC0B-3BB86C18D8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476413A6-8026-49E7-AC0B-3BB86C18D8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476413A6-8026-49E7-AC0B-3BB86C18D8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9288F2D5-234A-42D7-BF04-549A857C4595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9288F2D5-234A-42D7-BF04-549A857C4595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9288F2D5-234A-42D7-BF04-549A857C4595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9288F2D5-234A-42D7-BF04-549A857C4595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B6CBFCA-0C0A-4A3D-AC0E-853F2331DB60} = {9EE9EA99-76B6-4F2F-8A1E-F951857A81C9}
+	EndGlobalSection
+EndGlobal
