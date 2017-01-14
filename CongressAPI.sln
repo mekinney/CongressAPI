@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongressAPI", "CongressAPI\CongressAPI.csproj", "{476413A6-8026-49E7-AC0B-3BB86C18D8C8}"
 EndProject
@@ -11,6 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongressAPI.Tests", "Congre
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9EE9EA99-76B6-4F2F-8A1E-F951857A81C9}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample JSON", "Sample JSON", "{2B6CBFCA-0C0A-4A3D-AC0E-853F2331DB60}"
 	ProjectSection(SolutionItems) = preProject
